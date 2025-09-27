@@ -12,32 +12,22 @@ from typing import List, Dict, Any
 # Make 'src' importable
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
-# ---------------- Settings (env-tunable) ----------------
-CACHE_DIR = "cache"
-QA_OUT = "data/esgbench_open_source.jsonl"
+# Import centralized configuration
+from src.config import get_config, get_paths, get_llm_config, get_processing_config
 
-# Hard caps – can override via env
-MAX_QAS_PER_DOC         = int(os.getenv("MAX_QAS_PER_DOC", "16"))
-MAX_QAS_PER_PASSAGE     = int(os.getenv("MAX_QAS_PER_PASSAGE", "1"))
-MAX_PASSAGES_PER_DOC    = int(os.getenv("MAX_PASSAGES_PER_DOC", "10"))  # passages to try per doc
-MAX_TABLE_PAGES_PER_DOC = int(os.getenv("MAX_TABLE_PAGES_PER_DOC", "8")) # table pages to try per doc
-HEAD_DOCS               = int(os.getenv("HEAD_DOCS", "999999"))         # only process first N docs
+# Initialize configuration
+config = get_config()
+paths = get_paths()
+llm_config = get_llm_config()
+processing_config = get_processing_config()
 
-MODEL = os.getenv("LLM_MODEL", "gpt-5-mini")  # switch with env if needed
-INCLUDE_TABLES = os.getenv("INCLUDE_TABLES", "1") not in ("0", "false", "False")
-
-# LLM chunking
-PASSAGE_CHARS = int(os.getenv("PASSAGE_CHARS", "1200"))  # trim long passages for speed
-
-# Randomness control
-random.seed(int(os.getenv("SEED", "42")))
+# Set random seed for reproducibility
+random.seed(processing_config.random_seed)
 
 # ---------------- LLM client ----------------
 from openai import OpenAI, RateLimitError, APIConnectionError, APIError, BadRequestError
-from dotenv import load_dotenv
-load_dotenv()  # load OPENAI_API_KEY if you have a .env
 
-client = OpenAI()  # expects OPENAI_API_KEY
+client = OpenAI(api_key=llm_config.openai_api_key)
 
 # ---------------- Utilities ----------------
 def append_jsonl(path, row):
@@ -69,16 +59,16 @@ def is_reasonable_numeric(ans):
 
 # ---------------- Load caches ----------------
 def load_chunks():
-    path = os.path.join(CACHE_DIR, "chunks.json")
-    if not os.path.exists(path):
+    path = paths.chunks_cache
+    if not path.exists():
         print(f"[ERR] Missing {path}. Run: python scripts/build_index.py")
         return []
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def load_table_rows_for_doc(doc_name):
-    p = os.path.join(CACHE_DIR, f"{doc_name}_tables.json")
-    if not os.path.exists(p): 
+    p = paths.cache_dir / f"{doc_name}_tables.json"
+    if not p.exists():
         return []
     with open(p, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -134,16 +124,16 @@ ROW SUMMARY:
 
 # ---------------- LLM call with retries & logs ----------------
 def ask_llm(prompt: str, tag: str) -> List[Dict[str, Any]]:
-    max_retries = 4
-    backoff = 2.0
+    max_retries = llm_config.max_retries
+    backoff = llm_config.rate_limit_delay
     for attempt in range(1, max_retries + 1):
         try:
             print(f"    [LLM] {tag} | attempt {attempt}")
             r = client.chat.completions.create(
-                model=MODEL,
+                model=llm_config.llm_model,
                 messages=[{"role":"user","content":prompt}],
                 response_format={"type":"json_object"},
-                timeout=40,  # seconds
+                timeout=llm_config.api_timeout,
             )
             txt = r.choices[0].message.content
             try:
@@ -177,8 +167,8 @@ def generate_from_passages(chunks, max_per_doc, already):
         by_doc[c["doc_name"]].append(c)
 
     kept = []
-    docs = sorted(by_doc.keys())[:HEAD_DOCS]
-    print(f"[passages] planning to process {len(docs)} docs (HEAD_DOCS={HEAD_DOCS})")
+    docs = sorted(by_doc.keys())[:processing_config.head_docs]
+    print(f"[passages] planning to process {len(docs)} docs (HEAD_DOCS={processing_config.head_docs})")
 
     for di, doc in enumerate(docs, 1):
         arr = by_doc[doc]
@@ -186,27 +176,27 @@ def generate_from_passages(chunks, max_per_doc, already):
         year = year_from_doc(doc)
         random.shuffle(arr)
 
-        print(f"[passages] Doc {di}/{len(docs)}: {doc} | trying up to {MAX_PASSAGES_PER_DOC} passages, target {max_per_doc} QAs")
+        print(f"[passages] Doc {di}/{len(docs)}: {doc} | trying up to {processing_config.max_passages_per_doc} passages, target {max_per_doc} QAs")
         used = 0
         seen_local = set()
         trials = 0
 
         for c in arr:
-            if used >= max_per_doc or trials >= MAX_PASSAGES_PER_DOC:
+            if used >= max_per_doc or trials >= processing_config.max_passages_per_doc:
                 break
             passage = (c.get("text") or "").strip()
             if len(passage) < 120:
                 continue
 
             trials += 1
-            short = passage[:PASSAGE_CHARS]
+            short = passage[:processing_config.passage_chars]
             tag = f"{doc}:p{c['page']}:passage#{trials}"
             print(f"  [passages] {tag} | len={len(short)} chars")
 
             items = ask_llm(PASSAGE_PROMPT.format(passage=short), tag)
             kept_here = 0
 
-            for it in items[:MAX_QAS_PER_PASSAGE]:
+            for it in items[:processing_config.max_qas_per_passage]:
                 q = (it.get("question") or "").strip()
                 a = (it.get("answer") or "").strip()
                 ev = (it.get("evidence_quote") or "").strip()
@@ -255,8 +245,8 @@ def generate_from_passages(chunks, max_per_doc, already):
     return kept
 
 def generate_from_tables(chunks, max_per_doc, already):
-    docs = sorted({c["doc_name"] for c in chunks})[:HEAD_DOCS]
-    print(f"[tables] planning to process {len(docs)} docs (HEAD_DOCS={HEAD_DOCS})")
+    docs = sorted({c["doc_name"] for c in chunks})[:processing_config.head_docs]
+    print(f"[tables] planning to process {len(docs)} docs (HEAD_DOCS={processing_config.head_docs})")
     kept = []
 
     for di, doc in enumerate(docs, 1):
@@ -274,13 +264,13 @@ def generate_from_tables(chunks, max_per_doc, already):
         for r in rows:
             rows_by_page[r["page"]].append(r)
 
-        print(f"[tables] Doc {di}/{len(docs)}: {doc} | pages_with_tables={len(rows_by_page)} | try up to {MAX_TABLE_PAGES_PER_DOC} pages, target {max_per_doc} QAs")
+        print(f"[tables] Doc {di}/{len(docs)}: {doc} | pages_with_tables={len(rows_by_page)} | try up to {processing_config.max_table_pages_per_doc} pages, target {max_per_doc} QAs")
         used = 0
         seen_local = set()
         processed_pages = 0
 
         for page, rlist in rows_by_page.items():
-            if used >= max_per_doc or processed_pages >= MAX_TABLE_PAGES_PER_DOC:
+            if used >= max_per_doc or processed_pages >= processing_config.max_table_pages_per_doc:
                 break
             processed_pages += 1
 
@@ -294,7 +284,7 @@ def generate_from_tables(chunks, max_per_doc, already):
             items = ask_llm(TABLE_PROMPT.format(row_summary=row_summary), tag)
             kept_here = 0
 
-            for it in items[:MAX_QAS_PER_PASSAGE]:
+            for it in items[:processing_config.max_qas_per_passage]:
                 q = (it.get("question") or "").strip()
                 a = (it.get("answer") or "").strip()
                 ev = (it.get("evidence_quote") or "").strip()
@@ -343,10 +333,10 @@ def generate_from_tables(chunks, max_per_doc, already):
 
 # ---------------- Entry point ----------------
 def main():
-    print(f"[init] MODEL={MODEL} | INCLUDE_TABLES={INCLUDE_TABLES}")
-    print(f"[init] Limits: MAX_QAS_PER_DOC={MAX_QAS_PER_DOC}, MAX_QAS_PER_PASSAGE={MAX_QAS_PER_PASSAGE}, "
-          f"MAX_PASSAGES_PER_DOC={MAX_PASSAGES_PER_DOC}, MAX_TABLE_PAGES_PER_DOC={MAX_TABLE_PAGES_PER_DOC}, "
-          f"PASSAGE_CHARS={PASSAGE_CHARS}, HEAD_DOCS={HEAD_DOCS}")
+    print(f"[init] MODEL={llm_config.llm_model} | INCLUDE_TABLES={processing_config.include_tables}")
+    print(f"[init] Limits: MAX_QAS_PER_DOC={processing_config.max_qas_per_doc}, MAX_QAS_PER_PASSAGE={processing_config.max_qas_per_passage}, "
+          f"MAX_PASSAGES_PER_DOC={processing_config.max_passages_per_doc}, MAX_TABLE_PAGES_PER_DOC={processing_config.max_table_pages_per_doc}, "
+          f"PASSAGE_CHARS={processing_config.passage_chars}, HEAD_DOCS={processing_config.head_docs}")
 
     # load chunks from your index
     chunks = load_chunks()
@@ -357,27 +347,27 @@ def main():
 
     # existing signatures to avoid duplicates across runs
     existing = set()
-    for r in read_jsonl(QA_OUT):
+    for r in read_jsonl(str(paths.qa_output)):
         existing.add(sig(r["doc_name"], r["question"], r["answer"]))
     print(f"[init] Existing QA signatures: {len(existing)}")
 
-    per_doc_passage = MAX_QAS_PER_DOC // 2
-    per_doc_table = MAX_QAS_PER_DOC - per_doc_passage
+    per_doc_passage = processing_config.max_qas_per_doc // 2
+    per_doc_table = processing_config.max_qas_per_doc - per_doc_passage
 
     added: List[Dict[str, Any]] = []
 
-    if INCLUDE_TABLES:
+    if processing_config.include_tables:
         print("[step] Generating from tables …")
         table_qas = generate_from_tables(chunks, per_doc_table, existing)
         for row in table_qas:
-            append_jsonl(QA_OUT, row)
+            append_jsonl(str(paths.qa_output), row)
         added.extend(table_qas)
         print(f"[step] tables added = {len(table_qas)}")
 
     print("[step] Generating from passages …")
     passage_qas = generate_from_passages(chunks, per_doc_passage, existing)
     for row in passage_qas:
-        append_jsonl(QA_OUT, row)
+        append_jsonl(str(paths.qa_output), row)
     added.extend(passage_qas)
     print(f"[step] passages added = {len(passage_qas)}")
 
