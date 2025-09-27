@@ -192,7 +192,7 @@ License: see LICENSE (MIT or Apache-2.0 recommended).
 If you publish results using ESGBench, please cite this repo (add CITATION.cff later).
 
 ✅ One-Liner Sanity Check
-# after ingest + index
+### after ingest + index
 ```bash
 head -n 5 data/docs_seed.csv
 python -m scripts.generate_qas_from_chunks
