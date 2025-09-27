@@ -1,0 +1,226 @@
+[
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "gCOe / MJ 4.9\n2",
+      "29.5\n-36% from baseline": "-45%\nfrom baseline"
+    },
+    "value": -45.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "gCOe / MJ 4.9\n2 -45%\nfrom baseline"
+  },
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "kgCO / MWh 342.6\n2",
+      "29.5\n-36% from baseline": "105.3\n-69% from baseline"
+    },
+    "value": -69.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "kgCO / MWh 342.6\n2 105.3\n-69% from baseline"
+  },
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "gCOe / km 164.8\n2",
+      "29.5\n-36% from baseline": "86.1\n-48% from baseline"
+    },
+    "value": -48.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "gCOe / km 164.8\n2 86.1\n-48% from baseline"
+  },
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "gCO / RTK 972.6\n2",
+      "29.5\n-36% from baseline": "625.0\n-36% from baseline"
+    },
+    "value": -36.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "gCO / RTK 972.6\n2 625.0\n-36% from baseline"
+  },
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "gCO / t-nm 11.4\n2",
+      "29.5\n-36% from baseline": "8.4\n-26% from baseline"
+    },
+    "value": -26.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "gCO / t-nm 11.4\n2 8.4\n-26% from baseline"
+  },
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "tCOe / t\n2 1.412\ncrude steel",
+      "29.5\n-36% from baseline": "0.981\n-30% from baseline"
+    },
+    "value": -30.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "tCOe / t\n2 1.412\ncrude steel 0.981\n-30% from baseline"
+  },
+  {
+    "page": 6,
+    "table_headers": [
+      "gCO / MJ 45.9\n2",
+      "29.5\n-36% from baseline"
+    ],
+    "raw_cells": {
+      "gCO / MJ 45.9\n2": "kgCOe / t\n2\ncementitious 639.3\nproduct",
+      "29.5\n-36% from baseline": "460.0\n-28% from baseline"
+    },
+    "value": -28.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "kgCOe / t\n2\ncementitious 639.3\nproduct 460.0\n-28% from baseline"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "Scopes 1 and 2 gCOe / MJ\n2",
+      "2019 45.9": "2019 4.9",
+      "29.5\n-36% from\nbaseline": "-45%\nfrom baseline"
+    },
+    "value": -45.0,
+    "unit": "%",
+    "scope": "Scope 3",
+    "raw_text_span": "Scopes 1 and 2 gCOe / MJ\n2 2019 4.9 -45%\nfrom baseline"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "Scope 1 kgCO / MWh\n2",
+      "2019 45.9": "2019 342.6",
+      "29.5\n-36% from\nbaseline": "105.3\n-69% from\nbaseline"
+    },
+    "value": -69.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Scope 1 kgCO / MWh\n2 2019 342.6 105.3\n-69% from\nbaseline"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "Scopes 1, 2 and 3\ngCOe / km\n(tank-to-wheel) 2",
+      "2019 45.9": "2019 164.8",
+      "29.5\n-36% from\nbaseline": "86.1\n-48% from\nbaseline"
+    },
+    "value": -48.0,
+    "unit": "%",
+    "scope": "Scope 3",
+    "raw_text_span": "Scopes 1, 2 and 3\ngCOe / km\n(tank-to-wheel) 2 2019 164.8 86.1\n-48% from\nbaseline"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "Scope 1\ngCO / RTK\n(tank-to-wake) 2",
+      "2019 45.9": "2021 972.6",
+      "29.5\n-36% from\nbaseline": "625.0\n-36% from\nbaseline"
+    },
+    "value": -36.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Scope 1\ngCO / RTK\n(tank-to-wake) 2 2021 972.6 625.0\n-36% from\nbaseline"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "Scope 1\ngCO / t-nm\n(tank-to-wake) 2",
+      "2019 45.9": "11.4\n2021\n(revisedii)",
+      "29.5\n-36% from\nbaseline": "8.4\n-26% from\nbaseline (revised)"
+    },
+    "value": -26.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Scope 1\ngCO / t-nm\n(tank-to-wake) 2 11.4\n2021\n(revisedii) 8.4\n-26% from\nbaseline (revised)"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "tCOe / t\nScopes 1 and 2 2\ncrude steel",
+      "2019 45.9": "2020 1.412",
+      "29.5\n-36% from\nbaseline": "0.981\n-30% from\nbaseline"
+    },
+    "value": -30.0,
+    "unit": "%",
+    "scope": "Scope 3",
+    "raw_text_span": "tCOe / t\nScopes 1 and 2 2\ncrude steel 2020 1.412 0.981\n-30% from\nbaseline"
+  },
+  {
+    "page": 20,
+    "table_headers": [
+      "Scope 3\ngCO / MJ\n(end use) 2",
+      "2019 45.9",
+      "29.5\n-36% from\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3\ngCO / MJ\n(end use) 2": "kgCOe / t\n2\nScopes 1 and 2 cementitious\nproduct",
+      "2019 45.9": "2020 639.3",
+      "29.5\n-36% from\nbaseline": "460.0\n-28% from\nbaseline"
+    },
+    "value": -28.0,
+    "unit": "%",
+    "scope": "Scope 3",
+    "raw_text_span": "kgCOe / t\n2\nScopes 1 and 2 cementitious\nproduct 2020 639.3 460.0\n-28% from\nbaseline"
+  }
+]

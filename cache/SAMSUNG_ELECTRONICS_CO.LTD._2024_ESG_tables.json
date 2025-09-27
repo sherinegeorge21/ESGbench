@@ -1,0 +1,48 @@
+[
+  {
+    "page": 9,
+    "table_headers": [
+      "2024 Material Topics",
+      "UN SDGs",
+      "Governance",
+      "Strategy",
+      "Risk Management (Policy)",
+      "Activities (Major Progress)"
+    ],
+    "raw_cells": {
+      "2024 Material Topics": "Water",
+      "UN SDGs": "",
+      "Governance": "",
+      "Strategy": "· D X Division: replenish 100% of water used globally by\n2030\n· D S Division: achieve zero increase in water intake\nrelative to 2021 levels by 2030",
+      "Risk Management (Policy)": "· B oard of directors approved New\nEnvironmental Strategy\n· O perate Environmental Management Task\nForce and Net Zero Committee\n· A ssess water resources risk assessment and\nestablish response strategy by region",
+      "Activities (Major Progress)": ""
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Water · D X Division: replenish 100% of water used globally by\n2030\n· D S Division: achieve zero increase in water intake\nrelative to 2021 levels by 2030 · B oard of directors approved New\nEnvironmental Strategy\n· O perate Environmental Management Task\nForce and Net Zero Committee\n· A ssess water resources risk assessment and\nestablish response strategy by region"
+  },
+  {
+    "page": 9,
+    "table_headers": [
+      "2024 Material Topics",
+      "UN SDGs",
+      "Governance",
+      "Strategy",
+      "Risk Management (Policy)",
+      "Activities (Major Progress)"
+    ],
+    "raw_cells": {
+      "2024 Material Topics": "Resource\nCircularity\nand Waste",
+      "UN SDGs": "",
+      "Governance": "",
+      "Strategy": "· D X Division: apply recycled resin to all plastic parts by\n2050\n· D S Division: achieve 99.9% waste recycling rate across\nall Korean manufacturing sites",
+      "Risk Management (Policy)": "· B oard of directors approved New\nEnvironmental Strategy\n· O perate Environmental Management Task\nForce and Net Zero Committee",
+      "Activities (Major Progress)": ""
+    },
+    "value": 99.9,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Resource\nCircularity\nand Waste · D X Division: apply recycled resin to all plastic parts by\n2050\n· D S Division: achieve 99.9% waste recycling rate across\nall Korean manufacturing sites · B oard of directors approved New\nEnvironmental Strategy\n· O perate Environmental Management Task\nForce and Net Zero Committee"
+  }
+]

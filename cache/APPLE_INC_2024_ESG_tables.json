@@ -1,0 +1,224 @@
+[
+  {
+    "page": 10,
+    "table_headers": [
+      "Contents Introduction Environmental Initiatives Engagement and Advocacy Data Appendix 2024 Environmental Progress Report 11\nApple 2030\nResources\nSmarter Chemistry\nJourney to Apple 2030\nWhere 2023 Where\nwe’ve been activities we’re going\nLaunched Codified Apple 2030\nRestore Fund 100% renewable To be carbon\nto advance 12.8M 70%+ energy neutral for\nnature-based devices and reduction mandate added\nour entire\ncarbon removal accessories sent in average to our Supplier Goal\nprojects to new users product energy Code of Conduct Transition footprint\nfor reuse from use since 2008 applicable to all to 100% fiber-based by 2030\nprograms like direct suppliers for packaging by 202520\nApple Trade In the manufacture of\nand AppleCare Apple products\n2015 2018 2020 2021 2022 2023 2025 2030"
+    ],
+    "raw_cells": {
+      "Contents Introduction Environmental Initiatives Engagement and Advocacy Data Appendix 2024 Environmental Progress Report 11\nApple 2030\nResources\nSmarter Chemistry\nJourney to Apple 2030\nWhere 2023 Where\nwe’ve been activities we’re going\nLaunched Codified Apple 2030\nRestore Fund 100% renewable To be carbon\nto advance 12.8M 70%+ energy neutral for\nnature-based devices and reduction mandate added\nour entire\ncarbon removal accessories sent in average to our Supplier Goal\nprojects to new users product energy Code of Conduct Transition footprint\nfor reuse from use since 2008 applicable to all to 100% fiber-based by 2030\nprograms like direct suppliers for packaging by 202520\nApple Trade In the manufacture of\nand AppleCare Apple products\n2015 2018 2020 2021 2022 2023 2025 2030": "Goal\nUse\n100% recycled cobalt in all\nApple-designed batteries21\nLaunched\n100% recycled tin soldering\nSupplier Clean 320+\nEnergy and Energy Achieved Achieved 22% 20% suppliers are and 100% recycled gold\nEfficiency Programs 100% renewable Carbon of the material reduction in committed to plating in all Apple-designed\nestablished to partner electricity neutrality shipped in emissions from using 100% rigid and flexible printed\nwith global suppliers generated or for our corporate products came transporting renewable energy circuit boards22\nto reduce the energy sourced for operations and from recycled products for all Apple- 100% recycled rare earth\nused to manufacture our corporate announced or renewable compared related production elements in all magnets\nApple products operations 2030 targets sources19 to 2022 by 2030 across all products23"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Goal\nUse\n100% recycled cobalt in all\nApple-designed batteries21\nLaunched\n100% recycled tin soldering\nSupplier Clean 320+\nEnergy and Energy Achieved Achieved 22% 20% suppliers are and 100% recycled gold\nEfficiency Programs 100% renewable Carbon of the material reduction in committed to plating in all Apple-designed\nestablished to partner electricity neutrality shipped in emissions from using 100% rigid and flexible printed\nwith global suppliers generated or for our corporate products came transporting renewable energy circuit boards22\nto reduce the energy sourced for operations and from recycled products for all Apple- 100% recycled rare earth\nused to manufacture our corporate announced or renewable compared related production elements in all magnets\nApple products operations 2030 targets sources19 to 2022 by 2030 across all products23"
+  },
+  {
+    "page": 96,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Scope 2 GHG Emissions\n(Location-Based)",
+      "Quantity": "1,206,700",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol"
+    },
+    "value": 1206700.0,
+    "unit": "tCO2e",
+    "scope": "Scope 2",
+    "raw_text_span": "Scope 2 GHG Emissions\n(Location-Based) 1,206,700 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol"
+  },
+  {
+    "page": 96,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Scope 2 GHG Emissions\n(Market-Based)",
+      "Quantity": "3,400",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol"
+    },
+    "value": 3400.0,
+    "unit": "tCO2e",
+    "scope": "Scope 2",
+    "raw_text_span": "Scope 2 GHG Emissions\n(Market-Based) 3,400 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol"
+  },
+  {
+    "page": 96,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Scope 3 Transmission and\nDistribution Loses (Market-\nBased)",
+      "Quantity": "0",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 0.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Scope 3 Transmission and\nDistribution Loses (Market-\nBased) 0 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 96,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Scope 3 GHG Emissions –\nUpstream Fuel-Related\nActivities",
+      "Quantity": "18,300",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 18300.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Scope 3 GHG Emissions –\nUpstream Fuel-Related\nActivities 18,300 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 96,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Scope 3 GHG Emissions –\nBusiness Travel",
+      "Quantity": "225,700",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 225700.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Scope 3 GHG Emissions –\nBusiness Travel 225,700 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 97,
+    "table_headers": [
+      "Scope 3 GHG Emissions –\nEmployee Commute",
+      "164,100",
+      "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    ],
+    "raw_cells": {
+      "Scope 3 GHG Emissions –\nEmployee Commute": "Scope 3 GHG Emissions -\nWork From Home Emissions\n(Employee Commute)\n(Location-Based)",
+      "164,100": "20,600",
+      "tCO2e": "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 20600.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Scope 3 GHG Emissions -\nWork From Home Emissions\n(Employee Commute)\n(Location-Based) 20,600 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 97,
+    "table_headers": [
+      "Scope 3 GHG Emissions –\nEmployee Commute",
+      "164,100",
+      "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    ],
+    "raw_cells": {
+      "Scope 3 GHG Emissions –\nEmployee Commute": "Scope 3 GHG Emissions –\nWork From Home Emissions\n(Employee Commute)\n(Market-Based)",
+      "164,100": "4,700",
+      "tCO2e": "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 4700.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Scope 3 GHG Emissions –\nWork From Home Emissions\n(Employee Commute)\n(Market-Based) 4,700 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 97,
+    "table_headers": [
+      "Scope 3 GHG Emissions –\nEmployee Commute",
+      "164,100",
+      "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    ],
+    "raw_cells": {
+      "Scope 3 GHG Emissions –\nEmployee Commute": "Scope 3 GHG Emissions -\nOther Cloud Services\n(Purchased Goods and\nServices) (Market-Based)",
+      "164,100": "0",
+      "tCO2e": "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 0.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Scope 3 GHG Emissions -\nOther Cloud Services\n(Purchased Goods and\nServices) (Market-Based) 0 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 97,
+    "table_headers": [
+      "Scope 3 GHG Emissions –\nEmployee Commute",
+      "164,100",
+      "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    ],
+    "raw_cells": {
+      "Scope 3 GHG Emissions –\nEmployee Commute": "Product end use avoided\nemissions",
+      "164,100": "48,800",
+      "tCO2e": "tCO2e",
+      "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+    },
+    "value": 48800.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Product end use avoided\nemissions 48,800 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain\n(Scope 3)"
+  },
+  {
+    "page": 97,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Carbon Removals",
+      "Quantity": "485,000",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain"
+    },
+    "value": 485000.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Carbon Removals 485,000 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain"
+  },
+  {
+    "page": 97,
+    "table_headers": [
+      "Parameter",
+      "Quantity",
+      "Units",
+      "Boundary / Protocol"
+    ],
+    "raw_cells": {
+      "Parameter": "Net Footprint6",
+      "Quantity": "15,600,000",
+      "Units": "tCO2e",
+      "Boundary / Protocol": "Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain"
+    },
+    "value": 615600000.0,
+    "unit": "tCO2e",
+    "scope": "Scope 3",
+    "raw_text_span": "Net Footprint6 15,600,000 tCO2e Worldwide occupied\nproperties / WRI/WBCSD\nGHG Protocol Value Chain"
+  }
+]

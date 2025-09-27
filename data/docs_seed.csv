@@ -1,0 +1,15 @@
+company,year,url,doc_type,industry,country,source
+Apple Inc,2024,https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2024.pdf,ESG,Technology,US,Apple site
+Microsoft Corp,2024,https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Microsoft-2024-Environmental-Sustainability-Report.pdf,ESG,Technology,US,Microsoft site
+Exxon Mobil Corporation,2024,https://corporate.exxonmobil.com/-/media/global/files/advancing-climate-solutions/2024/2024-advancing-climate-solutions-report.pdf,Climate/Energy,Energy,US,ExxonMobil site
+JPMorgan Chase & Co.,2024,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/Climate-Report-2024.pdf,TCFD/Climate,Financials,US,JPMorgan site
+Tesla Inc.,2024,https://www.tesla.com/ns_videos/2024-tesla-impact-report-highlights.pdf,Impact/ESG,Automotive,US,Tesla site
+The Coca-Cola Company,2024,https://www.coca-colacompany.com/content/dam/company/us/en/reports/2024-environmental-update/2024-environmental-update.pdf,Environmental Update,Consumer Staples,US,Coca-Cola site
+Nestlé S.A.,2024,https://www.nestle.com/sites/default/files/2025-02/creating-shared-value-nestle-2024.pdf,ESG/CSV,Consumer Staples,CH,Nestlé site
+Samsung Electronics Co.Ltd.,2024,https://csr.samsung.com/data/Sustainability_report_2024_en.pdf,ESG,Technology,KR,Samsung site
+Unilever PLC,2024,https://www.unilever.com/files/unilever-annual-report-and-accounts-2024.pdf,Annual+Sustainability,Consumer Staples,UK/NL,Unilever site
+Tata Steel Limited,2024,https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf,BRSR,Materials,IN,Tata Steel site
+Reliance Industries Limited,2025,https://www.ril.com/reports/BRSR202425.pdf,BRSR,Energy/Materials,IN,Reliance site
+Safaricom PLC,2024,https://www.safaricom.co.ke/images/Downloads/Safaricom-Sustainable-Report-2024-compressed.pdf,Sustainability,Telecom,KE,Safaricom site
+MTN Nigeria Communications PLC,2024,https://doclib.ngxgroup.com/Financial_NewsDocs/44040_MTN_NIGERIA_COMMUNICATIONS_PLC-2024_SUSTAINABILITY_REPORT_CORPORATE_ACTIONS_MAY_2025.pdf,Sustainability,Telecom,NG,NGX (issuer PDF)
+Samsung SDS Co.Ltd.,2024,https://image.samsungsds.com/us/gnb/feature/gkrf7/__icsFiles/afieldfile/2024/07/25/Samsung%20SDS%20Sustainability%20Report%202024.pdf,ESG,IT Services,KR,Samsung SDS site

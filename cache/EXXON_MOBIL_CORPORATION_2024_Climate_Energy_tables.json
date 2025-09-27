@@ -1,0 +1,30 @@
+[
+  {
+    "page": 32,
+    "table_headers": [
+      "What we've done",
+      "What we're doing"
+    ],
+    "raw_cells": {
+      "What we've done": "• Cut operated methane emissions intensity in half since 2016",
+      "What we're doing": "• On plan to reduce methane intensity versus 2016 across all operated\nassets 70%-80% by 20301"
+    },
+    "value": 70.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "• Cut operated methane emissions intensity in half since 2016 • On plan to reduce methane intensity versus 2016 across all operated\nassets 70%-80% by 20301"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "16%"
+    ],
+    "raw_cells": {
+      "16%": "60%"
+    },
+    "value": 60.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "60%"
+  }
+]

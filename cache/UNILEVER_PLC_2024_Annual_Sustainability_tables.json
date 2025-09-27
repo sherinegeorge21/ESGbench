@@ -1,0 +1,1264 @@
+[
+  {
+    "page": 15,
+    "table_headers": [
+      "2024"
+    ],
+    "raw_cells": {
+      "2024": "106 €6.9\n% bn\ncash conversion free cash flow"
+    },
+    "value": 6.9,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "106 €6.9\n% bn\ncash conversion free cash flow"
+  },
+  {
+    "page": 15,
+    "table_headers": [
+      "2024"
+    ],
+    "raw_cells": {
+      "2024": "15.5\n% BMI (+120bps)"
+    },
+    "value": 15.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "15.5\n% BMI (+120bps)"
+  },
+  {
+    "page": 52,
+    "table_headers": [
+      "4 5 0",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "4 5 0": "44%",
+      "": "0%"
+    },
+    "value": 44.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "44% 0%"
+  },
+  {
+    "page": 52,
+    "table_headers": [
+      "4 5 0",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "4 5 0": "31% 69%",
+      "": "0%"
+    },
+    "value": 31.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "31% 69% 0%"
+  },
+  {
+    "page": 52,
+    "table_headers": [
+      "4 5 0",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "4 5 0": "32%",
+      "": "0%"
+    },
+    "value": 32.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "32% 0%"
+  },
+  {
+    "page": 52,
+    "table_headers": [
+      "4 5 0",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "4 5 0": "55%",
+      "": "0%"
+    },
+    "value": 55.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "55% 0%"
+  },
+  {
+    "page": 52,
+    "table_headers": [
+      "4 5 0",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "4 5 0": "37% 63% 0%",
+      "": ""
+    },
+    "value": 37.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "37% 63% 0%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "7.00%"
+    },
+    "value": 7.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "7.00%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "9.50%\n6.80%"
+    },
+    "value": 9.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "9.50%\n6.80%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "9.50%"
+    },
+    "value": 9.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "9.50%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "150%"
+    },
+    "value": 150.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "150%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "25%",
+      "44.3%",
+      "45%",
+      "",
+      "60%"
+    ],
+    "raw_cells": {
+      "25%": "25%",
+      "44.3%": "€16.0bn",
+      "45%": "",
+      "": "",
+      "60%": "€22.0bn"
+    },
+    "value": 25.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "25% €16.0bn €22.0bn"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "25%",
+      "44.3%",
+      "45%",
+      "",
+      "60%"
+    ],
+    "raw_cells": {
+      "25%": "25%",
+      "44.3%": "15%",
+      "45%": "",
+      "": "18.1%",
+      "60%": "19%"
+    },
+    "value": 25.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "25% 15% 18.1% 19%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "25%",
+      "44.3%",
+      "45%",
+      "",
+      "60%"
+    ],
+    "raw_cells": {
+      "25%": "",
+      "44.3%": "",
+      "45%": "",
+      "": "18.1%",
+      "60%": ""
+    },
+    "value": 18.1,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "18.1%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "25%",
+      "44.3%",
+      "45%",
+      "",
+      "60%"
+    ],
+    "raw_cells": {
+      "25%": "25%",
+      "44.3%": "0%",
+      "45%": "",
+      "": "18%",
+      "60%": "200%"
+    },
+    "value": 25.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "25% 0% 18% 200%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "25%",
+      "44.3%",
+      "45%",
+      "",
+      "60%"
+    ],
+    "raw_cells": {
+      "25%": "",
+      "44.3%": "",
+      "45%": "1",
+      "": "18%",
+      "60%": ""
+    },
+    "value": 118.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "1 18%"
+  },
+  {
+    "page": 101,
+    "table_headers": [
+      "25%",
+      "44.3%",
+      "45%",
+      "",
+      "60%"
+    ],
+    "raw_cells": {
+      "25%": "",
+      "44.3%": "0%",
+      "45%": "95%",
+      "": "",
+      "60%": "200%"
+    },
+    "value": 0.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "0% 95% 200%"
+  },
+  {
+    "page": 106,
+    "table_headers": [
+      "150%",
+      "122% 183%",
+      "1,850 3,386\n1,175 1,720",
+      "50%\n50%"
+    ],
+    "raw_cells": {
+      "150%": "120% 122% 146%",
+      "122% 183%": "",
+      "1,850 3,386\n1,175 1,720": "",
+      "50%\n50%": ""
+    },
+    "value": 120.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "120% 122% 146%"
+  },
+  {
+    "page": 109,
+    "table_headers": [
+      "500% No 75% 5,491 0 24,811 0"
+    ],
+    "raw_cells": {
+      "500% No 75% 5,491 0 24,811 0": "400% Yes 1,468% 261,793 0 310,479 0"
+    },
+    "value": 400.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "400% Yes 1,468% 261,793 0 310,479 0"
+  },
+  {
+    "page": 117,
+    "table_headers": [
+      "",
+      "Other benefits\n(not including\nFixed pay pension) Bonus",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "",
+      "Other benefits\n(not including\nFixed pay pension) Bonus": "71.5% 1.6% 81.8%\nn/a n/a n/a\n12.2% 26.8% 20.3%"
+    },
+    "value": 71.5,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "71.5% 1.6% 81.8%\nn/a n/a n/a\n12.2% 26.8% 20.3%"
+  },
+  {
+    "page": 117,
+    "table_headers": [
+      "",
+      "Other benefits\n(not including\nFixed pay pension) Bonus",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "",
+      "Other benefits\n(not including\nFixed pay pension) Bonus": "-50.0%\n3480.6%\n6.0%\n0.2%"
+    },
+    "value": -50.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "-50.0%\n3480.6%\n6.0%\n0.2%"
+  },
+  {
+    "page": 117,
+    "table_headers": [
+      "",
+      "Other benefits\n(not including\nFixed pay pension) Bonus",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "": "-19.2%",
+      "Other benefits\n(not including\nFixed pay pension) Bonus": ""
+    },
+    "value": -19.2,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "-19.2%"
+  },
+  {
+    "page": 118,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1",
+      ""
+    ],
+    "raw_cells": {
+      "": "",
+      "1": "0.3%"
+    },
+    "value": 0.3,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "0.3%"
+  },
+  {
+    "page": 118,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1",
+      ""
+    ],
+    "raw_cells": {
+      "": "",
+      "1": "0.3%"
+    },
+    "value": 0.3,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "0.3%"
+  },
+  {
+    "page": 118,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1",
+      ""
+    ],
+    "raw_cells": {
+      "": "",
+      "1": "4.1%"
+    },
+    "value": 4.1,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "4.1%"
+  },
+  {
+    "page": 118,
+    "table_headers": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1",
+      ""
+    ],
+    "raw_cells": {
+      "": "",
+      "1": "-2.1%"
+    },
+    "value": -2.1,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "-2.1%"
+  },
+  {
+    "page": 118,
+    "table_headers": [
+      "",
+      "2023",
+      "",
+      "2024"
+    ],
+    "raw_cells": {
+      "": "81%",
+      "2023": "",
+      "2024": ""
+    },
+    "value": 81.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "81%"
+  },
+  {
+    "page": 126,
+    "table_headers": [
+      "We performed audit procedures in relation to components that"
+    ],
+    "raw_cells": {
+      "We performed audit procedures in relation to components that": "accounted for 65% of Group profit before tax:"
+    },
+    "value": 65.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "accounted for 65% of Group profit before tax:"
+  },
+  {
+    "page": 164,
+    "table_headers": [
+      "3% 2% 3% 3% 3%\n5% 3% 3% 3% 5%"
+    ],
+    "raw_cells": {
+      "3% 2% 3% 3% 3%\n5% 3% 3% 3% 5%": "11% 11% 12% 11% 10%"
+    },
+    "value": 11.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "11% 11% 12% 11% 10%"
+  },
+  {
+    "page": 164,
+    "table_headers": [
+      "3% 2% 3% 2% 2%"
+    ],
+    "raw_cells": {
+      "3% 2% 3% 2% 2%": "6% 4% 3% 3% 6%"
+    },
+    "value": 6.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "6% 4% 3% 3% 6%"
+  },
+  {
+    "page": 164,
+    "table_headers": [
+      "3% 2% 3% 2% 2%"
+    ],
+    "raw_cells": {
+      "3% 2% 3% 2% 2%": "11% 11% 12% 11% 10%"
+    },
+    "value": 11.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "11% 11% 12% 11% 10%"
+  },
+  {
+    "page": 244,
+    "table_headers": [
+      "Climate targets (million tonnes COe)\n2",
+      "Baseline year",
+      "Total baseline\nemissions",
+      "Emissions in\nscope of 2030\ntarget %",
+      "Baseline\nemissions in\nscope of target",
+      "Total emissions\ntarget\nreduction\nfactor"
+    ],
+    "raw_cells": {
+      "Climate targets (million tonnes COe)\n2": "",
+      "Baseline year": "",
+      "Total baseline\nemissions": "",
+      "Emissions in\nscope of 2030\ntarget %": "",
+      "Baseline\nemissions in\nscope of target": "",
+      "Total emissions\ntarget\nreduction\nfactor": "100.0%\n39.5%"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "100.0%\n39.5%"
+  },
+  {
+    "page": 244,
+    "table_headers": [
+      "Climate targets (million tonnes COe)\n2",
+      "Baseline year",
+      "Total baseline\nemissions",
+      "Emissions in\nscope of 2030\ntarget %",
+      "Baseline\nemissions in\nscope of target",
+      "Total emissions\ntarget\nreduction\nfactor"
+    ],
+    "raw_cells": {
+      "Climate targets (million tonnes COe)\n2": "",
+      "Baseline year": "",
+      "Total baseline\nemissions": "",
+      "Emissions in\nscope of 2030\ntarget %": "",
+      "Baseline\nemissions in\nscope of target": "",
+      "Total emissions\ntarget\nreduction\nfactor": "30.3%"
+    },
+    "value": 30.3,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "30.3%"
+  },
+  {
+    "page": 244,
+    "table_headers": [
+      "Climate targets (million tonnes COe)\n2",
+      "Baseline year",
+      "Total baseline\nemissions",
+      "Emissions in\nscope of 2030\ntarget %",
+      "Baseline\nemissions in\nscope of target",
+      "Total emissions\ntarget\nreduction\nfactor"
+    ],
+    "raw_cells": {
+      "Climate targets (million tonnes COe)\n2": "",
+      "Baseline year": "",
+      "Total baseline\nemissions": "",
+      "Emissions in\nscope of 2030\ntarget %": "",
+      "Baseline\nemissions in\nscope of target": "",
+      "Total emissions\ntarget\nreduction\nfactor": "42.0%"
+    },
+    "value": 42.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "42.0%"
+  },
+  {
+    "page": 245,
+    "table_headers": [
+      "Scope 1 and 2 GHG emissions – Unilever operations (million tonnes CO2e)",
+      "2030 target\n% reduction",
+      "2015\nbaseline",
+      "2024\n% change\nvs. 2015\nbaseline",
+      "2023\n% change\nvs. 2015\nbaseline(a)(b)",
+      "2022\n% change\nvs. 2015\nbaseline(a)(c)"
+    ],
+    "raw_cells": {
+      "Scope 1 and 2 GHG emissions – Unilever operations (million tonnes CO2e)": "",
+      "2030 target\n% reduction": "",
+      "2015\nbaseline": "",
+      "2024\n% change\nvs. 2015\nbaseline": "-72%",
+      "2023\n% change\nvs. 2015\nbaseline(a)(b)": "",
+      "2022\n% change\nvs. 2015\nbaseline(a)(c)": ""
+    },
+    "value": -72.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "-72%"
+  },
+  {
+    "page": 245,
+    "table_headers": [
+      "Scope 3 GHG emissions – Unilever value chain (million tonnes CO2e)",
+      "2030 targets",
+      "2024\nemissions",
+      "2021\nbaseline",
+      "2024\n% change\nvs. 2021\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3 GHG emissions – Unilever value chain (million tonnes CO2e)": "",
+      "2030 targets": "",
+      "2024\nemissions": "29.0",
+      "2021\nbaseline": "31.4",
+      "2024\n% change\nvs. 2021\nbaseline": "-8 %"
+    },
+    "value": -8.0,
+    "unit": "%",
+    "scope": "Scope 3",
+    "raw_text_span": "29.0 31.4 -8 %"
+  },
+  {
+    "page": 245,
+    "table_headers": [
+      "Scope 3 GHG emissions – Unilever value chain (million tonnes CO2e)",
+      "2030 targets",
+      "2024\nemissions",
+      "2021\nbaseline",
+      "2024\n% change\nvs. 2021\nbaseline"
+    ],
+    "raw_cells": {
+      "Scope 3 GHG emissions – Unilever value chain (million tonnes CO2e)": "",
+      "2030 targets": "",
+      "2024\nemissions": "7.2",
+      "2021\nbaseline": "8.4",
+      "2024\n% change\nvs. 2021\nbaseline": "-14 %"
+    },
+    "value": -14.0,
+    "unit": "%",
+    "scope": "Scope 3",
+    "raw_text_span": "7.2 8.4 -14 %"
+  },
+  {
+    "page": 248,
+    "table_headers": [
+      "Energy consumption and mix (thousands MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Energy consumption and mix (thousands MWh)": "",
+      "2024": "41%"
+    },
+    "value": 41.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "41%"
+  },
+  {
+    "page": 248,
+    "table_headers": [
+      "Energy consumption and mix (thousands MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Energy consumption and mix (thousands MWh)": "",
+      "2024": "0%"
+    },
+    "value": 0.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "0%"
+  },
+  {
+    "page": 248,
+    "table_headers": [
+      "Energy consumption and mix (thousands MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Energy consumption and mix (thousands MWh)": "",
+      "2024": "59%"
+    },
+    "value": 59.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "59%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Renewable electricity (% of MWh)": "",
+      "2024": "2%"
+    },
+    "value": 2.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "2%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Renewable electricity (% of MWh)": "",
+      "2024": "83%"
+    },
+    "value": 83.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "83%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Renewable electricity (% of MWh)": "",
+      "2024": "0%\n9%\n14%"
+    },
+    "value": 0.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "0%\n9%\n14%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Renewable electricity (% of MWh)": "",
+      "2024": "0%"
+    },
+    "value": 0.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "0%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Renewable electricity (% of MWh)": "",
+      "2024": "60%"
+    },
+    "value": 60.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "60%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Renewable electricity (% of MWh)": "",
+      "2024": "85%"
+    },
+    "value": 85.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "85%"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Non-renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Non-renewable electricity (% of MWh)": "",
+      "2024": "8 %\n5 %\n2 %"
+    },
+    "value": 8.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "8 %\n5 %\n2 %"
+  },
+  {
+    "page": 249,
+    "table_headers": [
+      "Non-renewable electricity (% of MWh)",
+      "2024"
+    ],
+    "raw_cells": {
+      "Non-renewable electricity (% of MWh)": "",
+      "2024": "15 %"
+    },
+    "value": 15.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "15 %"
+  },
+  {
+    "page": 253,
+    "table_headers": [
+      "Metric",
+      "2024"
+    ],
+    "raw_cells": {
+      "Metric": "",
+      "2024": "93%"
+    },
+    "value": 93.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "93%"
+  },
+  {
+    "page": 259,
+    "table_headers": [
+      "0.13m"
+    ],
+    "raw_cells": {
+      "0.13m": "79%"
+    },
+    "value": 79.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "79%"
+  },
+  {
+    "page": 259,
+    "table_headers": [
+      "0.13m"
+    ],
+    "raw_cells": {
+      "0.13m": "97%"
+    },
+    "value": 97.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "97%"
+  },
+  {
+    "page": 261,
+    "table_headers": [
+      "-23%"
+    ],
+    "raw_cells": {
+      "-23%": "57%"
+    },
+    "value": 57.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "57%"
+  },
+  {
+    "page": 261,
+    "table_headers": [
+      "-23%"
+    ],
+    "raw_cells": {
+      "-23%": "76%\n13%"
+    },
+    "value": 76.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "76%\n13%"
+  },
+  {
+    "page": 261,
+    "table_headers": [
+      "-23%"
+    ],
+    "raw_cells": {
+      "-23%": "21%"
+    },
+    "value": 21.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "21%"
+  },
+  {
+    "page": 261,
+    "table_headers": [
+      "-23%"
+    ],
+    "raw_cells": {
+      "-23%": "93%"
+    },
+    "value": 93.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "93%"
+  },
+  {
+    "page": 262,
+    "table_headers": [
+      "32"
+    ],
+    "raw_cells": {
+      "32": "60%"
+    },
+    "value": 60.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "60%"
+  },
+  {
+    "page": 262,
+    "table_headers": [
+      "32"
+    ],
+    "raw_cells": {
+      "32": "2%"
+    },
+    "value": 2.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "2%"
+  },
+  {
+    "page": 263,
+    "table_headers": [
+      "731"
+    ],
+    "raw_cells": {
+      "731": "25%"
+    },
+    "value": 25.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "25%"
+  },
+  {
+    "page": 266,
+    "table_headers": [
+      "Financial year",
+      "2024",
+      "",
+      "",
+      "Substantial contribution criteria",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "DNSH criteria ('Does\nNot Significantly Harm')",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "Financial year": "Capital expenditure of\nTaxonomy-eligible but not\nenvironmentally\nsustainable activities (not\nTaxonomy-aligned\nactivities) (A.2)",
+      "2024": "",
+      "": "",
+      "Substantial contribution criteria": "%",
+      "DNSH criteria ('Does\nNot Significantly Harm')": ""
+    },
+    "value": 2.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Capital expenditure of\nTaxonomy-eligible but not\nenvironmentally\nsustainable activities (not\nTaxonomy-aligned\nactivities) (A.2) %"
+  },
+  {
+    "page": 266,
+    "table_headers": [
+      "Financial year",
+      "2024",
+      "",
+      "",
+      "Substantial contribution criteria",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "DNSH criteria ('Does\nNot Significantly Harm')",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "raw_cells": {
+      "Financial year": "A. Capital expenditure of\nTaxonomy-eligible activities\n(A.1+A.2)",
+      "2024": "",
+      "": "",
+      "Substantial contribution criteria": "%",
+      "DNSH criteria ('Does\nNot Significantly Harm')": ""
+    },
+    "value": 2.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "A. Capital expenditure of\nTaxonomy-eligible activities\n(A.1+A.2) %"
+  },
+  {
+    "page": 276,
+    "table_headers": [
+      "",
+      "2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "2024": "14.5%"
+    },
+    "value": 14.5,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "14.5%"
+  },
+  {
+    "page": 277,
+    "table_headers": [
+      "2024"
+    ],
+    "raw_cells": {
+      "2024": "54.6%"
+    },
+    "value": 54.6,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "54.6%"
+  },
+  {
+    "page": 277,
+    "table_headers": [
+      "Gender distribution of top management",
+      "Female",
+      "Male",
+      "Not reported 2024 Total",
+      ""
+    ],
+    "raw_cells": {
+      "Gender distribution of top management": "",
+      "Female": "32%",
+      "Male": "68%",
+      "Not reported 2024 Total": "0%",
+      "": "100%"
+    },
+    "value": 32.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "32% 68% 0% 100%"
+  },
+  {
+    "page": 277,
+    "table_headers": [
+      "2024",
+      "Percentage"
+    ],
+    "raw_cells": {
+      "2024": "19,970 17%\n322 0%",
+      "Percentage": ""
+    },
+    "value": 1997017.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "19,970 17%\n322 0%"
+  },
+  {
+    "page": 277,
+    "table_headers": [
+      "2024",
+      "Percentage"
+    ],
+    "raw_cells": {
+      "2024": "120,040 100%",
+      "Percentage": ""
+    },
+    "value": 120040100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "120,040 100%"
+  },
+  {
+    "page": 279,
+    "table_headers": [
+      "",
+      "2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "2024": "-49 %"
+    },
+    "value": -49.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "-49 %"
+  },
+  {
+    "page": 283,
+    "table_headers": [
+      "2024",
+      "2023",
+      "2022"
+    ],
+    "raw_cells": {
+      "2024": "32%",
+      "2023": "",
+      "2022": ""
+    },
+    "value": 32.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "32%"
+  },
+  {
+    "page": 288,
+    "table_headers": [
+      "2024 2023 2022"
+    ],
+    "raw_cells": {
+      "2024 2023 2022": "84%\n52%"
+    },
+    "value": 84.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "84%\n52%"
+  },
+  {
+    "page": 293,
+    "table_headers": [
+      "",
+      "Q4 2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "Q4 2024": "36%"
+    },
+    "value": 36.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "36%"
+  },
+  {
+    "page": 293,
+    "table_headers": [
+      "",
+      "Q4 2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "Q4 2024": "19%"
+    },
+    "value": 19.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "19%"
+  },
+  {
+    "page": 293,
+    "table_headers": [
+      "",
+      "Q4 2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "Q4 2024": "23%"
+    },
+    "value": 23.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "23%"
+  },
+  {
+    "page": 293,
+    "table_headers": [
+      "",
+      "Q4 2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "Q4 2024": "22%"
+    },
+    "value": 22.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "22%"
+  },
+  {
+    "page": 293,
+    "table_headers": [
+      "",
+      "Q4 2024"
+    ],
+    "raw_cells": {
+      "": "",
+      "Q4 2024": "100%"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "100%"
+  },
+  {
+    "page": 293,
+    "table_headers": [
+      "All suppliers",
+      "SME suppliers"
+    ],
+    "raw_cells": {
+      "All suppliers": "87%",
+      "SME suppliers": "84%"
+    },
+    "value": 87.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "87% 84%"
+  }
+]

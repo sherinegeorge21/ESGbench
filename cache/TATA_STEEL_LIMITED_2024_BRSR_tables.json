@@ -1,0 +1,697 @@
+[
+  {
+    "page": 29,
+    "table_headers": [
+      "0",
+      "0",
+      "0"
+    ],
+    "raw_cells": {
+      "0": "27%"
+    },
+    "value": 27.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "27%"
+  },
+  {
+    "page": 29,
+    "table_headers": [
+      "0",
+      "0",
+      "0"
+    ],
+    "raw_cells": {
+      "0": "23%"
+    },
+    "value": 23.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "23%"
+  },
+  {
+    "page": 29,
+    "table_headers": [
+      "0",
+      "0",
+      "0"
+    ],
+    "raw_cells": {
+      "0": "3%"
+    },
+    "value": 3.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "3%"
+  },
+  {
+    "page": 29,
+    "table_headers": [
+      "0",
+      "0",
+      "0"
+    ],
+    "raw_cells": {
+      "0": "4%"
+    },
+    "value": 4.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "4%"
+  },
+  {
+    "page": 29,
+    "table_headers": [
+      "0",
+      "0",
+      "0"
+    ],
+    "raw_cells": {
+      "0": "8%"
+    },
+    "value": 8.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "8%"
+  },
+  {
+    "page": 29,
+    "table_headers": [
+      "0",
+      "0",
+      "0"
+    ],
+    "raw_cells": {
+      "0": "57%"
+    },
+    "value": 57.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "57%"
+  },
+  {
+    "page": 30,
+    "table_headers": [
+      "100%\n(₹953 crore)"
+    ],
+    "raw_cells": {
+      "100%\n(₹953 crore)": "18%"
+    },
+    "value": 18.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "18%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Hot Rolled & Cold\nRolled Steel (HR and\nCR)",
+      "Turnover\n(J Cr)": "1,40,987",
+      "% of total\nturnover (of\nthe respective\nentity)": "49%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "Cradle-to-gate",
+      "Whether conducted by\nindependent external\nagency": "Verified by Third\nParty party (EPD\nInternational AB\napproved) and\nCertified by CII\n(Confederation of\nIndian Industries)"
+    },
+    "value": 14098749.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24105 Hot Rolled & Cold\nRolled Steel (HR and\nCR) 1,40,987 49% Cradle-to-gate Verified by Third\nParty party (EPD\nInternational AB\napproved) and\nCertified by CII\n(Confederation of\nIndian Industries)"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Galvanized, Rebar\nSteel & Pravesh\nDoors",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "17%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": "Verified by Third Party\n(EPD International AB\napproved) (Partially)"
+    },
+    "value": 17.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Galvanized, Rebar\nSteel & Pravesh\nDoors 17% Verified by Third Party\n(EPD International AB\napproved) (Partially)"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24311",
+      "Name of product/\nservice": "Steel Structural\nhollow section",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "2%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": "Verified by Third Party\n(EPD International AB\napproved)"
+    },
+    "value": 2.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24311 Steel Structural\nhollow section 2% Verified by Third Party\n(EPD International AB\napproved)"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24108",
+      "Name of product/\nservice": "Steel wires",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "3%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": "No"
+    },
+    "value": 3.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24108 Steel wires 3% No"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24311",
+      "Name of product/\nservice": "Tata Ezyfit",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "0%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": "Certified by CII\n(Confederation of\nIndian Industries)"
+    },
+    "value": 0.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24311 Tata Ezyfit 0% Certified by CII\n(Confederation of\nIndian Industries)"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Metallic Coated",
+      "Turnover\n(J Cr)": "28,120",
+      "% of total\nturnover (of\nthe respective\nentity)": "16%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "Cradle-to-gate",
+      "Whether conducted by\nindependent external\nagency": "Yes, verified by third\nparty"
+    },
+    "value": 2812016.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Metallic Coated 28,120 16% Cradle-to-gate Yes, verified by third\nparty"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24106",
+      "Name of product/\nservice": "Tube",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "13%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 13.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24106 Tube 13%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Packaging Steel",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "13%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 13.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Packaging Steel 13%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Organic Coated",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "13%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 13.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Organic Coated 13%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Hot Rolled Dry",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "12%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 12.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24105 Hot Rolled Dry 12%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Cold Rolled",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "11%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 11.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24105 Cold Rolled 11%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Building Products",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "7%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 7.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Building Products 7%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Hot Rolled Pickled",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "5%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 5.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24105 Hot Rolled Pickled 5%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Hot and Direct Rolled\nSteel Coil",
+      "Turnover\n(J Cr)": "54,818",
+      "% of total\nturnover (of\nthe respective\nentity)": "23%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "Cradle to Gate",
+      "Whether conducted by\nindependent external\nagency": "Yes, verified by third\nparty"
+    },
+    "value": 5481823.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "24105 Hot and Direct Rolled\nSteel Coil 54,818 23% Cradle to Gate Yes, verified by third\nparty"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Pickled Hot and Direct\nRolled Steel Coil",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "17%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 17.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "24105 Pickled Hot and Direct\nRolled Steel Coil 17%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24105",
+      "Name of product/\nservice": "Cold Rolled and\nannealed Steel Coil",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "7%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 7.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24105 Cold Rolled and\nannealed Steel Coil 7%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Galvanized Steel Coil",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "32%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 32.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Galvanized Steel Coil 32%"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24106",
+      "Name of product/\nservice": "Steel Tube",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "4%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "EN15804 modules A,\nC & D – Cradle to gate,\nend of life and recycling",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 4.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24106 Steel Tube 4% EN15804 modules A,\nC & D – Cradle to gate,\nend of life and recycling"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Organic Coated Steel\nand Steel building\nproducts (cladding\nand decking)",
+      "Turnover\n(J Cr)": "",
+      "% of total\nturnover (of\nthe respective\nentity)": "17%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "EN15804 modules A,\nC & D - Cradle to gate,\nend of life and recycling",
+      "Whether conducted by\nindependent external\nagency": ""
+    },
+    "value": 17.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Organic Coated Steel\nand Steel building\nproducts (cladding\nand decking) 17% EN15804 modules A,\nC & D - Cradle to gate,\nend of life and recycling"
+  },
+  {
+    "page": 34,
+    "table_headers": [
+      "NIC\nCode",
+      "Name of product/\nservice",
+      "Turnover\n(J Cr)",
+      "% of total\nturnover (of\nthe respective\nentity)",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted",
+      "Whether conducted by\nindependent external\nagency"
+    ],
+    "raw_cells": {
+      "NIC\nCode": "24109",
+      "Name of product/\nservice": "Rebar",
+      "Turnover\n(J Cr)": "5,829",
+      "% of total\nturnover (of\nthe respective\nentity)": "32%",
+      "Boundary for which the\nlife cycle perspective/\nassessment was\nconducted": "Cradle-to-gate",
+      "Whether conducted by\nindependent external\nagency": "Yes, verified third party\nThailand Greenhouse\nGas Management\nOrganization\n(governmental\norganization under\nthe Ministry of\nNatural Resources and\nEnvironment, Thailand)"
+    },
+    "value": 582932.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "24109 Rebar 5,829 32% Cradle-to-gate Yes, verified third party\nThailand Greenhouse\nGas Management\nOrganization\n(governmental\norganization under\nthe Ministry of\nNatural Resources and\nEnvironment, Thailand)"
+  },
+  {
+    "page": 36,
+    "table_headers": [
+      "1,36,287",
+      "1,36,287",
+      "100",
+      "1,36,287",
+      "100",
+      "Not Applicable",
+      "",
+      "Not tracked",
+      "1,23,774"
+    ],
+    "raw_cells": {
+      "1,36,287": "64",
+      "100": "100",
+      "Not Applicable": "Benefits available\nas applicable 100%",
+      "": "",
+      "Not tracked": "",
+      "1,23,774": "64"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "64 100 Benefits available\nas applicable 100% 64"
+  },
+  {
+    "page": 36,
+    "table_headers": [
+      "1,36,287",
+      "1,36,287",
+      "100",
+      "1,36,287",
+      "100",
+      "Not Applicable",
+      "",
+      "Not tracked",
+      "1,23,774"
+    ],
+    "raw_cells": {
+      "1,36,287": "1,43,741",
+      "100": "100",
+      "Not Applicable": "100% of all\nmaternity cases",
+      "": "",
+      "Not tracked": "",
+      "1,23,774": "1,29,256"
+    },
+    "value": 143741100100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "1,43,741 100 100% of all\nmaternity cases 1,29,256"
+  },
+  {
+    "page": 37,
+    "table_headers": [
+      "100",
+      "100",
+      "No\nExempted PF"
+    ],
+    "raw_cells": {
+      "100": "100%\nPermanent\nWorkers",
+      "No\nExempted PF": "NA"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "100%\nPermanent\nWorkers NA"
+  },
+  {
+    "page": 37,
+    "table_headers": [
+      "100",
+      "100",
+      "No\nExempted PF"
+    ],
+    "raw_cells": {
+      "100": "100%\nPermanent\nWorkers",
+      "No\nExempted PF": "NA"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "100%\nPermanent\nWorkers NA"
+  },
+  {
+    "page": 37,
+    "table_headers": [
+      "100",
+      "100",
+      "No\nExempted PF"
+    ],
+    "raw_cells": {
+      "100": "100%\nPermanent\nWorkers",
+      "No\nExempted PF": "NA"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "100%\nPermanent\nWorkers NA"
+  },
+  {
+    "page": 37,
+    "table_headers": [
+      "100",
+      "100",
+      "No\nExempted PF"
+    ],
+    "raw_cells": {
+      "100": "100%\nPermanent\nWorkers",
+      "No\nExempted PF": "NA"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "100%\nPermanent\nWorkers NA"
+  },
+  {
+    "page": 37,
+    "table_headers": [
+      "100",
+      "100",
+      "No\nExempted PF"
+    ],
+    "raw_cells": {
+      "100": "100%\nPermanent\nWorkers",
+      "No\nExempted PF": "NA"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "100%\nPermanent\nWorkers NA"
+  }
+]

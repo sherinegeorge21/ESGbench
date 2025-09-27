@@ -1,0 +1,1107 @@
+[
+  {
+    "page": 42,
+    "table_headers": [
+      "Total energy consumption",
+      "MWh",
+      "217,252",
+      "249,998",
+      "322,671",
+      "281,270"
+    ],
+    "raw_cells": {
+      "Total energy consumption": "Non-renewable energy consumption1)",
+      "MWh": "MWh",
+      "217,252": "217,007",
+      "249,998": "249,692",
+      "322,671": "321,456",
+      "281,270": "280,903"
+    },
+    "value": 1.0,
+    "unit": "MWh",
+    "scope": null,
+    "raw_text_span": "Non-renewable energy consumption1) MWh 217,007 249,692 321,456 280,903"
+  },
+  {
+    "page": 45,
+    "table_headers": [
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX"
+    ],
+    "raw_cells": {
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX": "46 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis of Financial Impact from Transition Risk\nSamsung SDS categorizes transition risks into policy/legal, technical, market, and reputational risks and quantifies the anticipated financial impact from a mid-to-long-term perspective. In particular, in the case of policy risks, we\nconducted a scenario analysis using S&P Global's methodology to increase the reliability of the analysis. First, we comprehensively analyzed data from more than 100 countries, such as carbon taxes, emissions trading schemes, and\nfuel prices to draw out carbon prices. We applied the 'Trucost CEaR' scenario based on the results of the global carbon cost estimation study linked to the 2°C scenario to predict changes in carbon prices and calculate the carbon cost\nthat Samsung SDS did not reflect. In the end, we analyzed the financial impact of future carbon costs by considering future carbon emissions based on our own analysis of Samsung SDS' carbon emission trends and business plans.\nWe also identify and manage the financial impact of the technical, market, and reputational risks related to climate change on Samsung SDS. For technical risks, the financial impact triggered by cost burdens and failed investments\nin new technologies to apply low-power at data centers was identified by looking at the technology investment costs, data center’s potential emissions, and carbon price forecasts. Market risks were calculated by assessing the cost\nof switching to renewable energy in the power sector through analysis of the supply price of renewable energy, while reputational risks were analyzed based on the financial impact on revenues resulting from increased negative\nstakeholder feedback due to inadequate climate-related disclosure and greenwashing.\nAnalysis of Financial Impact of Policy Risks based on the Climate Scenario Analysis of Financial Impact of Technical, Market, and Reputational Risk\nBAU Emissions Scenario ■ Low ■ Moderate ■ High\nOutlook on\nCategory Key Risk Factor Financial Rationale\n$20m 0.20% Cost Ratio\nimpact\n$16.56m $16.18m $15.78m\n$15.00m $16m $13.67m 0.16% of carbon to OPEX 0.16% 0.15% • Increased direct costs based on investments in IT equip- Cost burden from ment cooling technologies for GHG abatement investing in low-power KRW 84.4\n$12m 0.12% 0.14% • Calculated based on investment and implementation new technologies for billion\n$7.88m $8m 0.08% risk 0.12% 0.10% costs for liquid cooling in eco-cloud technologies to apply data centers low-power to data centers\nTechnical\nrisks • Financial risks from failed investments in the low-power\n$4m 0.04% 0.06% Increased costs for eco-cloud technology at data centers and data center\npurchasing carbon KRW 247.4 renovations\n0.00% $0m credits due to failed new billion • Calculated based on the GHG reductions estimated from\n2025 2030 2035 2040 2045 2050 technology investments investments in data center low-power consumption\ntechnology and carbon credit prices\nNet Zero Emissions Scenario ■ Low ■ Moderate ■ High\n• Increased direct costs from supply of renewable energy\n$10m 0.08% Cost Ratio to reduce GHG in the power sector of data centers and\nIncreased energy business sites\n$7.93m $8m $7.88m $6.39m of to Market costs due to transition KRW 692.4 • Calculated based on the cost for purchasing addition-\n0.06% carbon OPEX risks to renewable energy billion al renewable energy needed for reducing emissions\n$6m $4.38m 0.06% in the power sector remaining from the 2050 domestic and overseas BAU emissions after lowering emissions using the company’s\n$1.99m 0.04% risk 0.05% own mitigation measures\n$4m 0.04% 0.04%\n0.02%\n• Drop in revenues due to undermined corporate reputation\n0.02% $2m Reputat- Increased negative resulting from non-disclosing climate data, poor response KRW 133\n0.00% ional feedback from to ESG assessments, and greenwashing, etc.\nbillion\n0.00% $0m risks stakeholders • Calculated based on total revenues (around 13.3 trillion in\n2025 2030 2035 2040 2045 2050 2023) and revenue decrease rates (1%)"
+    },
+    "value": 0.2,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "46 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis of Financial Impact from Transition Risk\nSamsung SDS categorizes transition risks into policy/legal, technical, market, and reputational risks and quantifies the anticipated financial impact from a mid-to-long-term perspective. In particular, in the case of policy risks, we\nconducted a scenario analysis using S&P Global's methodology to increase the reliability of the analysis. First, we comprehensively analyzed data from more than 100 countries, such as carbon taxes, emissions trading schemes, and\nfuel prices to draw out carbon prices. We applied the 'Trucost CEaR' scenario based on the results of the global carbon cost estimation study linked to the 2°C scenario to predict changes in carbon prices and calculate the carbon cost\nthat Samsung SDS did not reflect. In the end, we analyzed the financial impact of future carbon costs by considering future carbon emissions based on our own analysis of Samsung SDS' carbon emission trends and business plans.\nWe also identify and manage the financial impact of the technical, market, and reputational risks related to climate change on Samsung SDS. For technical risks, the financial impact triggered by cost burdens and failed investments\nin new technologies to apply low-power at data centers was identified by looking at the technology investment costs, data center’s potential emissions, and carbon price forecasts. Market risks were calculated by assessing the cost\nof switching to renewable energy in the power sector through analysis of the supply price of renewable energy, while reputational risks were analyzed based on the financial impact on revenues resulting from increased negative\nstakeholder feedback due to inadequate climate-related disclosure and greenwashing.\nAnalysis of Financial Impact of Policy Risks based on the Climate Scenario Analysis of Financial Impact of Technical, Market, and Reputational Risk\nBAU Emissions Scenario ■ Low ■ Moderate ■ High\nOutlook on\nCategory Key Risk Factor Financial Rationale\n$20m 0.20% Cost Ratio\nimpact\n$16.56m $16.18m $15.78m\n$15.00m $16m $13.67m 0.16% of carbon to OPEX 0.16% 0.15% • Increased direct costs based on investments in IT equip- Cost burden from ment cooling technologies for GHG abatement investing in low-power KRW 84.4\n$12m 0.12% 0.14% • Calculated based on investment and implementation new technologies for billion\n$7.88m $8m 0.08% risk 0.12% 0.10% costs for liquid cooling in eco-cloud technologies to apply data centers low-power to data centers\nTechnical\nrisks • Financial risks from failed investments in the low-power\n$4m 0.04% 0.06% Increased costs for eco-cloud technology at data centers and data center\npurchasing carbon KRW 247.4 renovations\n0.00% $0m credits due to failed new billion • Calculated based on the GHG reductions estimated from\n2025 2030 2035 2040 2045 2050 technology investments investments in data center low-power consumption\ntechnology and carbon credit prices\nNet Zero Emissions Scenario ■ Low ■ Moderate ■ High\n• Increased direct costs from supply of renewable energy\n$10m 0.08% Cost Ratio to reduce GHG in the power sector of data centers and\nIncreased energy business sites\n$7.93m $8m $7.88m $6.39m of to Market costs due to transition KRW 692.4 • Calculated based on the cost for purchasing addition-\n0.06% carbon OPEX risks to renewable energy billion al renewable energy needed for reducing emissions\n$6m $4.38m 0.06% in the power sector remaining from the 2050 domestic and overseas BAU emissions after lowering emissions using the company’s\n$1.99m 0.04% risk 0.05% own mitigation measures\n$4m 0.04% 0.04%\n0.02%\n• Drop in revenues due to undermined corporate reputation\n0.02% $2m Reputat- Increased negative resulting from non-disclosing climate data, poor response KRW 133\n0.00% ional feedback from to ESG assessments, and greenwashing, etc.\nbillion\n0.00% $0m risks stakeholders • Calculated based on total revenues (around 13.3 trillion in\n2025 2030 2035 2040 2045 2050 2023) and revenue decrease rates (1%)"
+  },
+  {
+    "page": 45,
+    "table_headers": [
+      "Category",
+      "Key Risk Factor",
+      "Outlook on\nFinancial\nimpact",
+      "Rationale"
+    ],
+    "raw_cells": {
+      "Category": "Reputat-\nional\nrisks",
+      "Key Risk Factor": "Increased negative\nfeedback from\nstakeholders",
+      "Outlook on\nFinancial\nimpact": "KRW 133\nbillion",
+      "Rationale": "• Drop in revenues due to undermined corporate reputation\nresulting from non-disclosing climate data, poor response\nto ESG assessments, and greenwashing, etc.\n• Calculated based on total revenues (around 13.3 trillion in\n2023) and revenue decrease rates (1%)"
+    },
+    "value": 1.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Reputat-\nional\nrisks Increased negative\nfeedback from\nstakeholders KRW 133\nbillion • Drop in revenues due to undermined corporate reputation\nresulting from non-disclosing climate data, poor response\nto ESG assessments, and greenwashing, etc.\n• Calculated based on total revenues (around 13.3 trillion in\n2023) and revenue decrease rates (1%)"
+  },
+  {
+    "page": 46,
+    "table_headers": [
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX"
+    ],
+    "raw_cells": {
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX": "47 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis on Financial Impact of Physical Risks\nSamsung SDS has been using S&P Global’s Climanomics framework since 2022 to identify and analyze financial impact of physical risks associated with the company’s key assets. The scope of the analysis includes 30 assets including\nglobal data centers (owned and leased) and the headquarter and subsidiary offices. In line with the RCP scenario in the IPCC 5th Assessment Report, annual average asset value loss rates and loss values were measured for the short-\nterm (2024), mid-term (2025~2029), and long-term (2030~2050), and each asset’s exposure to 8 climate risks including urban flooding and extreme temperatures were identified.\nThrough the analysis, loss rates for assets under the RCP 8.5 scenario, which has the highest climate risks, was forecast at 4.9% in 2030 and 7.3% in 2050. These figures are 18.0%~33.0%p lower than measurements of the RCP 8.5\nscenario in 2022 which showed 22.9% in 2030 and 40.3% in 2050, resulting from use of more advanced S&P methodologies with improved resolution.\nTop 5 Asset Types by Asset Value MAAL (Modeled Average Annual Loss): Estimated losses and loss ratio compared to current asset value, including\nData Center – Owner/Occupier : $1,472m, Data Center-Tenant : $71m, Office – Tenant : $36m operating costs, capital costs incurred due to loss rates, and costs due to business disruptions as losses\nAssets for Physical Risk Analysis Analysis on Financial Impact of Physical Risks\nGlobal HQ\nRCP 2.6 RCP 4.5 RCP 7.0 RCP 8.5\n● Chuncheon DC ● Seoul R&D Campus\n● Suwon DC ● Pangyo IT Campus\n8.0% $120m Modeled Modeled S ●D LS o nE du or no Dp Ce ● ● S Da on ng ga tm an D DC C ● ● E Wa est s tC Ca am mp pu us s 7.3%\n● Frankfurt DC ● Gumi DC ● Pangyo Logistics Campus ($116.0m)\n7.0% ● Giheung Terra Tower $110m\nAverage Average SDS China 6.1%\nSDS America ● Beijing DC ($96.5m)\n$100m ● New Jersey DC ● Shanghai DC\n6.0%\nAnnual Annual SDS India\n● Delhi DC 4.9% $90m\n5.0% ● Dallas DC ($77.5m)\n$80m Loss(by Loss(by ● Austin DC ● Bengaluru DC SDS Vietnam 5.2%\n● Hanoi DC 3.6% 4.9% ($82.5m)\n4.0% relative absolute ($57.1m) ($76.7m) $70m\nSDS Asia Pacific\n$60m 3.9%\nSDS Latin America ● Singapore DC\n3.0% risk) risk) ($62.2m) ● Sao Paulo DC 3.2% $50m\n($50.8m)\n2.0%\n2024 2030 2040 2050\nAsset Type ● Data Center - Owner/Occupier ● Data Center - Tenant ● Office - Tenant"
+    },
+    "value": 4.9,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "47 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis on Financial Impact of Physical Risks\nSamsung SDS has been using S&P Global’s Climanomics framework since 2022 to identify and analyze financial impact of physical risks associated with the company’s key assets. The scope of the analysis includes 30 assets including\nglobal data centers (owned and leased) and the headquarter and subsidiary offices. In line with the RCP scenario in the IPCC 5th Assessment Report, annual average asset value loss rates and loss values were measured for the short-\nterm (2024), mid-term (2025~2029), and long-term (2030~2050), and each asset’s exposure to 8 climate risks including urban flooding and extreme temperatures were identified.\nThrough the analysis, loss rates for assets under the RCP 8.5 scenario, which has the highest climate risks, was forecast at 4.9% in 2030 and 7.3% in 2050. These figures are 18.0%~33.0%p lower than measurements of the RCP 8.5\nscenario in 2022 which showed 22.9% in 2030 and 40.3% in 2050, resulting from use of more advanced S&P methodologies with improved resolution.\nTop 5 Asset Types by Asset Value MAAL (Modeled Average Annual Loss): Estimated losses and loss ratio compared to current asset value, including\nData Center – Owner/Occupier : $1,472m, Data Center-Tenant : $71m, Office – Tenant : $36m operating costs, capital costs incurred due to loss rates, and costs due to business disruptions as losses\nAssets for Physical Risk Analysis Analysis on Financial Impact of Physical Risks\nGlobal HQ\nRCP 2.6 RCP 4.5 RCP 7.0 RCP 8.5\n● Chuncheon DC ● Seoul R&D Campus\n● Suwon DC ● Pangyo IT Campus\n8.0% $120m Modeled Modeled S ●D LS o nE du or no Dp Ce ● ● S Da on ng ga tm an D DC C ● ● E Wa est s tC Ca am mp pu us s 7.3%\n● Frankfurt DC ● Gumi DC ● Pangyo Logistics Campus ($116.0m)\n7.0% ● Giheung Terra Tower $110m\nAverage Average SDS China 6.1%\nSDS America ● Beijing DC ($96.5m)\n$100m ● New Jersey DC ● Shanghai DC\n6.0%\nAnnual Annual SDS India\n● Delhi DC 4.9% $90m\n5.0% ● Dallas DC ($77.5m)\n$80m Loss(by Loss(by ● Austin DC ● Bengaluru DC SDS Vietnam 5.2%\n● Hanoi DC 3.6% 4.9% ($82.5m)\n4.0% relative absolute ($57.1m) ($76.7m) $70m\nSDS Asia Pacific\n$60m 3.9%\nSDS Latin America ● Singapore DC\n3.0% risk) risk) ($62.2m) ● Sao Paulo DC 3.2% $50m\n($50.8m)\n2.0%\n2024 2030 2040 2050\nAsset Type ● Data Center - Owner/Occupier ● Data Center - Tenant ● Office - Tenant"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX"
+    ],
+    "raw_cells": {
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX": "48 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis of Physical Risk Scenario\nManaging the physical risks of Samsung SDS’ key assets and its data centers is imperative to the business. To this end, we divided the risk rating and defined material physical risks to identify which data centers were exposed to these\nrisks and when. There were no data centers exposed to material physical risks in the short-term, but the Shanghai Data Center is expected to reach Medium-High risk levels in the mid-term. In the long-term which starts in 2030, the\nDallas Data Center also has possibility of being exposed to material risks, so we plan to continuously monitor physical risks and prepare countermeasures to minimize asset losses.\nOf the 8 climate risks, extreme temperatures has the most significant impact on asset losses while urban flooding is also projected to have somewhat impact. Other risks such as coastal flooding, wildfires, tropical cyclones, water\nstress, and river flooding were found to cause either little or no losses. Moreover, we plan to mitigate the risks of extreme temperatures by increasing cooling facilities, replacing outdated equipment, and applying liquid cooling, etc.\nto data centers.\nExtreme\n(Short-term) (Mid-term) (Long-term) (Long-term) Urban Coastal Water River\nCategory Assets Scenario Scenario Year Temper- Droughts Wildfires Typhoons\n2024 2025-2029 2030-2040 2041-2050 Flooding Flooding Stress Flooding\natures\nRCP 2.6 4.0% 4.9% 5.6% 5.8% 2030 0.4% 3.9% - - - - - -\nChuncheon\nRCP 2.6\nData Center\nRCP 8.5 4.0% 5.4% 6.6% 8.0% 2050 0.5% 4.6% - - - - - -\nRCP 2.6 3.9% 4.7% 5.4% 5.5% 2030 0.4% 3.8% - - - - - -\nSuwon\nRCP 4.5\nData Center\nRCP 8.5 3.8% 5.2% 6.4% 7.8% 2050 0.5% 5.2% - 0.1% - - - -\nDomestic\nRCP 2.6 3.9% 4.7% 5.4% 5.5% 2030 0.4% 3.4% - - - - - -\nDongtan\nRCP 7.0\nData Center\nRCP 8.5 3.8% 5.2% 6.5% 7.8% 2050 0.6% 5.1% - 0.1% - - - -\nRCP 2.6 3.9% 4.6% 5.4% 5.5% 2030 0.4% 4.3% - - - - - -\nSangam\nRCP 8.5\nData Center\nRCP 8.5 3.8% 5.2% 6.4% 7.6% 2050 0.7% 6.1% - 0.2% - - - -\nRCP 2.6 2.1% 2.4% 16.7% 16.9%\nDallas\nData Center Risk Grade based on Losses from Definition of material physical risks and\nRCP 8.5 2.0% 2.6% 17.3% 18.2%\nPhysical Risks management of exposed assets\nShanghai RCP 2.6 1.7% 2.1% 2.1% 1.4% ■ Extremely Low 0-1 • Medium-High or higher grades are defined as\nOverseas\nData Center ■ Low 2-10 material physical risks to identify assets (data\nRCP 8.5 1.7% 16.4% 17.2% 18.1%\n■ Medium 11-15 centers) and timing of risk exposure\nNew Jersey RCP 2.6 1.0% 1.3% 1.6% 1.7% ■ Medium-High 16-50 • Build and implement physical risk mitigation\nData Center RCP 8.5 1.0% 1.5% 2.0% 2.7% ■ High 51-100 measures"
+    },
+    "value": 64.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "48 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis of Physical Risk Scenario\nManaging the physical risks of Samsung SDS’ key assets and its data centers is imperative to the business. To this end, we divided the risk rating and defined material physical risks to identify which data centers were exposed to these\nrisks and when. There were no data centers exposed to material physical risks in the short-term, but the Shanghai Data Center is expected to reach Medium-High risk levels in the mid-term. In the long-term which starts in 2030, the\nDallas Data Center also has possibility of being exposed to material risks, so we plan to continuously monitor physical risks and prepare countermeasures to minimize asset losses.\nOf the 8 climate risks, extreme temperatures has the most significant impact on asset losses while urban flooding is also projected to have somewhat impact. Other risks such as coastal flooding, wildfires, tropical cyclones, water\nstress, and river flooding were found to cause either little or no losses. Moreover, we plan to mitigate the risks of extreme temperatures by increasing cooling facilities, replacing outdated equipment, and applying liquid cooling, etc.\nto data centers.\nExtreme\n(Short-term) (Mid-term) (Long-term) (Long-term) Urban Coastal Water River\nCategory Assets Scenario Scenario Year Temper- Droughts Wildfires Typhoons\n2024 2025-2029 2030-2040 2041-2050 Flooding Flooding Stress Flooding\natures\nRCP 2.6 4.0% 4.9% 5.6% 5.8% 2030 0.4% 3.9% - - - - - -\nChuncheon\nRCP 2.6\nData Center\nRCP 8.5 4.0% 5.4% 6.6% 8.0% 2050 0.5% 4.6% - - - - - -\nRCP 2.6 3.9% 4.7% 5.4% 5.5% 2030 0.4% 3.8% - - - - - -\nSuwon\nRCP 4.5\nData Center\nRCP 8.5 3.8% 5.2% 6.4% 7.8% 2050 0.5% 5.2% - 0.1% - - - -\nDomestic\nRCP 2.6 3.9% 4.7% 5.4% 5.5% 2030 0.4% 3.4% - - - - - -\nDongtan\nRCP 7.0\nData Center\nRCP 8.5 3.8% 5.2% 6.5% 7.8% 2050 0.6% 5.1% - 0.1% - - - -\nRCP 2.6 3.9% 4.6% 5.4% 5.5% 2030 0.4% 4.3% - - - - - -\nSangam\nRCP 8.5\nData Center\nRCP 8.5 3.8% 5.2% 6.4% 7.6% 2050 0.7% 6.1% - 0.2% - - - -\nRCP 2.6 2.1% 2.4% 16.7% 16.9%\nDallas\nData Center Risk Grade based on Losses from Definition of material physical risks and\nRCP 8.5 2.0% 2.6% 17.3% 18.2%\nPhysical Risks management of exposed assets\nShanghai RCP 2.6 1.7% 2.1% 2.1% 1.4% ■ Extremely Low 0-1 • Medium-High or higher grades are defined as\nOverseas\nData Center ■ Low 2-10 material physical risks to identify assets (data\nRCP 8.5 1.7% 16.4% 17.2% 18.1%\n■ Medium 11-15 centers) and timing of risk exposure\nNew Jersey RCP 2.6 1.0% 1.3% 1.6% 1.7% ■ Medium-High 16-50 • Build and implement physical risk mitigation\nData Center RCP 8.5 1.0% 1.5% 2.0% 2.7% ■ High 51-100 measures"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "Domestic",
+      "Assets": "Chuncheon\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "4.0%",
+      "(Mid-term)\n2025-2029": "4.9%",
+      "(Long-term)\n2030-2040": "5.6%",
+      "(Long-term)\n2041-2050": "5.8%"
+    },
+    "value": 64.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Domestic Chuncheon\nData Center RCP 2.6 4.0% 4.9% 5.6% 5.8%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "4.0%",
+      "(Mid-term)\n2025-2029": "5.4%",
+      "(Long-term)\n2030-2040": "6.6%",
+      "(Long-term)\n2041-2050": "8.0%"
+    },
+    "value": 54.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 4.0% 5.4% 6.6% 8.0%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "Suwon\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "3.9%",
+      "(Mid-term)\n2025-2029": "4.7%",
+      "(Long-term)\n2030-2040": "5.4%",
+      "(Long-term)\n2041-2050": "5.5%"
+    },
+    "value": 63.9,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Suwon\nData Center RCP 2.6 3.9% 4.7% 5.4% 5.5%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "3.8%",
+      "(Mid-term)\n2025-2029": "5.2%",
+      "(Long-term)\n2030-2040": "6.4%",
+      "(Long-term)\n2041-2050": "7.8%"
+    },
+    "value": 53.8,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 3.8% 5.2% 6.4% 7.8%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "Dongtan\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "3.9%",
+      "(Mid-term)\n2025-2029": "4.7%",
+      "(Long-term)\n2030-2040": "5.4%",
+      "(Long-term)\n2041-2050": "5.5%"
+    },
+    "value": 63.9,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Dongtan\nData Center RCP 2.6 3.9% 4.7% 5.4% 5.5%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "3.8%",
+      "(Mid-term)\n2025-2029": "5.2%",
+      "(Long-term)\n2030-2040": "6.5%",
+      "(Long-term)\n2041-2050": "7.8%"
+    },
+    "value": 53.8,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 3.8% 5.2% 6.5% 7.8%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "Sangam\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "3.9%",
+      "(Mid-term)\n2025-2029": "4.6%",
+      "(Long-term)\n2030-2040": "5.4%",
+      "(Long-term)\n2041-2050": "5.5%"
+    },
+    "value": 63.9,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Sangam\nData Center RCP 2.6 3.9% 4.6% 5.4% 5.5%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "3.8%",
+      "(Mid-term)\n2025-2029": "5.2%",
+      "(Long-term)\n2030-2040": "6.4%",
+      "(Long-term)\n2041-2050": "7.6%"
+    },
+    "value": 53.8,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 3.8% 5.2% 6.4% 7.6%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "Overseas",
+      "Assets": "Dallas\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "2.1%",
+      "(Mid-term)\n2025-2029": "2.4%",
+      "(Long-term)\n2030-2040": "16.7%",
+      "(Long-term)\n2041-2050": "16.9%"
+    },
+    "value": 62.1,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Overseas Dallas\nData Center RCP 2.6 2.1% 2.4% 16.7% 16.9%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "2.0%",
+      "(Mid-term)\n2025-2029": "2.6%",
+      "(Long-term)\n2030-2040": "17.3%",
+      "(Long-term)\n2041-2050": "18.2%"
+    },
+    "value": 52.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 2.0% 2.6% 17.3% 18.2%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "Shanghai\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "1.7%",
+      "(Mid-term)\n2025-2029": "2.1%",
+      "(Long-term)\n2030-2040": "2.1%",
+      "(Long-term)\n2041-2050": "1.4%"
+    },
+    "value": 61.7,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Shanghai\nData Center RCP 2.6 1.7% 2.1% 2.1% 1.4%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "1.7%",
+      "(Mid-term)\n2025-2029": "16.4%",
+      "(Long-term)\n2030-2040": "17.2%",
+      "(Long-term)\n2041-2050": "18.1%"
+    },
+    "value": 51.7,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 1.7% 16.4% 17.2% 18.1%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "New Jersey\nData Center",
+      "Scenario": "RCP 2.6",
+      "(Short-term)\n2024": "1.0%",
+      "(Mid-term)\n2025-2029": "1.3%",
+      "(Long-term)\n2030-2040": "1.6%",
+      "(Long-term)\n2041-2050": "1.7%"
+    },
+    "value": 61.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "New Jersey\nData Center RCP 2.6 1.0% 1.3% 1.6% 1.7%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Category",
+      "Assets",
+      "Scenario",
+      "(Short-term)\n2024",
+      "(Mid-term)\n2025-2029",
+      "(Long-term)\n2030-2040",
+      "(Long-term)\n2041-2050"
+    ],
+    "raw_cells": {
+      "Category": "",
+      "Assets": "",
+      "Scenario": "RCP 8.5",
+      "(Short-term)\n2024": "1.0%",
+      "(Mid-term)\n2025-2029": "1.5%",
+      "(Long-term)\n2030-2040": "2.0%",
+      "(Long-term)\n2041-2050": "2.7%"
+    },
+    "value": 51.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 1.0% 1.5% 2.0% 2.7%"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "RCP 2.6",
+      "Year": "2030",
+      "Urban\nFlooding": "0.4%",
+      "Extreme\nTemper-\natures": "3.9%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "-",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 620300.4,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 2.6 2030 0.4% 3.9% - - - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "",
+      "Year": "2050",
+      "Urban\nFlooding": "0.5%",
+      "Extreme\nTemper-\natures": "4.6%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "-",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 20500.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "2050 0.5% 4.6% - - - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "RCP 4.5",
+      "Year": "2030",
+      "Urban\nFlooding": "0.4%",
+      "Extreme\nTemper-\natures": "3.8%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "-",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 520300.4,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 4.5 2030 0.4% 3.8% - - - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "",
+      "Year": "2050",
+      "Urban\nFlooding": "0.5%",
+      "Extreme\nTemper-\natures": "5.2%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "0.1%",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 20500.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "2050 0.5% 5.2% - 0.1% - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "RCP 7.0",
+      "Year": "2030",
+      "Urban\nFlooding": "0.4%",
+      "Extreme\nTemper-\natures": "3.4%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "-",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 20300.4,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 7.0 2030 0.4% 3.4% - - - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "",
+      "Year": "2050",
+      "Urban\nFlooding": "0.6%",
+      "Extreme\nTemper-\natures": "5.1%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "0.1%",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 20500.6,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "2050 0.6% 5.1% - 0.1% - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "RCP 8.5",
+      "Year": "2030",
+      "Urban\nFlooding": "0.4%",
+      "Extreme\nTemper-\natures": "4.3%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "-",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 520300.4,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "RCP 8.5 2030 0.4% 4.3% - - - - - -"
+  },
+  {
+    "page": 47,
+    "table_headers": [
+      "Scenario",
+      "Year",
+      "Urban\nFlooding",
+      "Extreme\nTemper-\natures",
+      "Coastal\nFlooding",
+      "Droughts",
+      "Wildfires",
+      "Typhoons",
+      "Water\nStress",
+      "River\nFlooding"
+    ],
+    "raw_cells": {
+      "Scenario": "",
+      "Year": "2050",
+      "Urban\nFlooding": "0.7%",
+      "Extreme\nTemper-\natures": "6.1%",
+      "Coastal\nFlooding": "-",
+      "Droughts": "0.2%",
+      "Wildfires": "-",
+      "Typhoons": "-",
+      "Water\nStress": "-",
+      "River\nFlooding": "-"
+    },
+    "value": 20500.7,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "2050 0.7% 6.1% - 0.2% - - - -"
+  },
+  {
+    "page": 48,
+    "table_headers": [
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX"
+    ],
+    "raw_cells": {
+      "Samsung SDS\nSustainability Report 2024 INTRODUCTION SUSTAINABILITY MANAGEMENT ESG PERFORMANCE APPENDIX": "49 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis of Climate related Business Opportunities\nSamsung SDS’ main business involves transition activities that contribute to the global 1.5°C goal. IEA1) states in its 2023 Net-Zero Roadmap Report2) that changing consumer behavior and responding to demand will enable CO\n2\nreductions of 2.6 Gt by 2050. The digital forwarding service of Samsung SDS, Cello Square, streamlines logistics operations and supports the transition to low-carbon transportation while Brity Meeting uses video conferencing to\nencourage behavioral changes in customers. GeSI3) forecasts in its SMARTer2030 report that the revenue potential of ICT products and services will reach $1.8 trillion by 2030, while Markets&Markets predicts that the market for\nESG disclosures and data platforms will grow at a CAGR of 16.5% from $700 million in 2022 to $1.5 billion in 2027.\nIn order to assess the climate opportunities for Samsung SDS and embed them in the business strategy, we defined low-carbon solutions that can Size\ncontribute to lowering GHG emissions and adaptation. In addition, we assessed the suitability of our economic activities and calculated the net sales, of\nCAPEX, and OPEX ratios of activities that contribute to climate change mitigation based on the EU Taxonomy standards. However, it is very difficult the\nto quantify the short-, mid-, and long-term financial impacts of the low-carbon solutions defined by Samsung SDS and to conduct analysis of climate low-carbon\nscenarios. This is because the data and research results required for reliable analysis have not been sufficiently accumulated, and the analysis meth-\nodology has not been established. The growth rate of low-carbon IT solutions is viewed very positively in a net-zero scenario but is not sufficient\nnario\nenough to be used as supporting evidence for the analysis. services\nSce\nFor this reason, Samsung SDS will estimate and provide predictions on the potential market size and revenue fluctuations of low-carbon solutions\n℃)\nbased on market projections and mid-term revenue targets of each service that are incorporated in building business plans and further refine analysis NZE(1.5\nmarket\nmethods.\nScenario\nNDC\nESRS_INDEX Item 2024~2026\nE1-9-69b Potential market size of low-carbon products, services, or adaptation solutions (annual average growth rate) 4.1%~19%\nE1-9-69b Anticipated changes in revenue due to low-carbon products, services, or adaptation solutions (annual average growth rate) 7%\n1) International Energy Agency\n2) IEA, Net Zero Roadmap - A Global Pathway to Keep the 1.5℃ Goal in Reach 2023 update (Sep 2023)\n3) Global Enabling Sustainability Initiative: Initiative devised to promote sustainable development in the ICT industry\n2023 2026 2050"
+    },
+    "value": 16.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "49 ENVIRONMENTAL SOCIAL GOVERNANCE\nSPECIAL SECTION\nCLIMATE REPORT\nStrategy & Business Model\nAnalysis of Climate related Business Opportunities\nSamsung SDS’ main business involves transition activities that contribute to the global 1.5°C goal. IEA1) states in its 2023 Net-Zero Roadmap Report2) that changing consumer behavior and responding to demand will enable CO\n2\nreductions of 2.6 Gt by 2050. The digital forwarding service of Samsung SDS, Cello Square, streamlines logistics operations and supports the transition to low-carbon transportation while Brity Meeting uses video conferencing to\nencourage behavioral changes in customers. GeSI3) forecasts in its SMARTer2030 report that the revenue potential of ICT products and services will reach $1.8 trillion by 2030, while Markets&Markets predicts that the market for\nESG disclosures and data platforms will grow at a CAGR of 16.5% from $700 million in 2022 to $1.5 billion in 2027.\nIn order to assess the climate opportunities for Samsung SDS and embed them in the business strategy, we defined low-carbon solutions that can Size\ncontribute to lowering GHG emissions and adaptation. In addition, we assessed the suitability of our economic activities and calculated the net sales, of\nCAPEX, and OPEX ratios of activities that contribute to climate change mitigation based on the EU Taxonomy standards. However, it is very difficult the\nto quantify the short-, mid-, and long-term financial impacts of the low-carbon solutions defined by Samsung SDS and to conduct analysis of climate low-carbon\nscenarios. This is because the data and research results required for reliable analysis have not been sufficiently accumulated, and the analysis meth-\nodology has not been established. The growth rate of low-carbon IT solutions is viewed very positively in a net-zero scenario but is not sufficient\nnario\nenough to be used as supporting evidence for the analysis. services\nSce\nFor this reason, Samsung SDS will estimate and provide predictions on the potential market size and revenue fluctuations of low-carbon solutions\n℃)\nbased on market projections and mid-term revenue targets of each service that are incorporated in building business plans and further refine analysis NZE(1.5\nmarket\nmethods.\nScenario\nNDC\nESRS_INDEX Item 2024~2026\nE1-9-69b Potential market size of low-carbon products, services, or adaptation solutions (annual average growth rate) 4.1%~19%\nE1-9-69b Anticipated changes in revenue due to low-carbon products, services, or adaptation solutions (annual average growth rate) 7%\n1) International Energy Agency\n2) IEA, Net Zero Roadmap - A Global Pathway to Keep the 1.5℃ Goal in Reach 2023 update (Sep 2023)\n3) Global Enabling Sustainability Initiative: Initiative devised to promote sustainable development in the ICT industry\n2023 2026 2050"
+  },
+  {
+    "page": 48,
+    "table_headers": [
+      "ESRS_INDEX",
+      "Item",
+      "2024~2026"
+    ],
+    "raw_cells": {
+      "ESRS_INDEX": "E1-9-69b",
+      "Item": "Potential market size of low-carbon products, services, or adaptation solutions (annual average growth rate)",
+      "2024~2026": "4.1%~19%"
+    },
+    "value": 4.1,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "E1-9-69b Potential market size of low-carbon products, services, or adaptation solutions (annual average growth rate) 4.1%~19%"
+  },
+  {
+    "page": 48,
+    "table_headers": [
+      "ESRS_INDEX",
+      "Item",
+      "2024~2026"
+    ],
+    "raw_cells": {
+      "ESRS_INDEX": "E1-9-69b",
+      "Item": "Anticipated changes in revenue due to low-carbon products, services, or adaptation solutions (annual average growth rate)",
+      "2024~2026": "7%"
+    },
+    "value": 7.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "E1-9-69b Anticipated changes in revenue due to low-carbon products, services, or adaptation solutions (annual average growth rate) 7%"
+  },
+  {
+    "page": 56,
+    "table_headers": [
+      "Improving awareness of\npeople with disabilities",
+      "All employees",
+      "100% completion of\n11,647 employees",
+      "100% completion of\n11,548 employees"
+    ],
+    "raw_cells": {
+      "Improving awareness of\npeople with disabilities": "Prevention of\nsexual harassment",
+      "All employees": "All employees",
+      "100% completion of\n11,647 employees": "100% completion of\n11,647 employees",
+      "100% completion of\n11,548 employees": "100% completion of\n11,548 employees"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Prevention of\nsexual harassment All employees 100% completion of\n11,647 employees 100% completion of\n11,548 employees"
+  },
+  {
+    "page": 56,
+    "table_headers": [
+      "Improving awareness of\npeople with disabilities",
+      "All employees",
+      "100% completion of\n11,647 employees",
+      "100% completion of\n11,548 employees"
+    ],
+    "raw_cells": {
+      "Improving awareness of\npeople with disabilities": "Prevention of\nworkplace bullying",
+      "All employees": "All employees",
+      "100% completion of\n11,647 employees": "100% completion of\n11,588 employees",
+      "100% completion of\n11,548 employees": "100% completion of\n11,604 employees"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Prevention of\nworkplace bullying All employees 100% completion of\n11,588 employees 100% completion of\n11,604 employees"
+  },
+  {
+    "page": 56,
+    "table_headers": [
+      "Improving awareness of\npeople with disabilities",
+      "All employees",
+      "100% completion of\n11,647 employees",
+      "100% completion of\n11,548 employees"
+    ],
+    "raw_cells": {
+      "Improving awareness of\npeople with disabilities": "Mental health training",
+      "All employees": "All employees",
+      "100% completion of\n11,647 employees": "97% completion of\n11,401 employees",
+      "100% completion of\n11,548 employees": "95% completion of\n11,337 employees"
+    },
+    "value": 97.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Mental health training All employees 97% completion of\n11,401 employees 95% completion of\n11,337 employees"
+  },
+  {
+    "page": 59,
+    "table_headers": [
+      "Ratio of female employees",
+      "%",
+      "29.2",
+      "30.6",
+      "30.6"
+    ],
+    "raw_cells": {
+      "Ratio of female employees": "Ratio of female junior managers1)",
+      "%": "%",
+      "29.2": "40.1",
+      "30.6": "39.4"
+    },
+    "value": 1.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Ratio of female junior managers1) % 40.1 39.4"
+  },
+  {
+    "page": 77,
+    "table_headers": [
+      "Labor Rights",
+      "13%",
+      "Policies on workhour\nmanagement, setup of\nLabor Council"
+    ],
+    "raw_cells": {
+      "Labor Rights": "Safety/\nEnvironment",
+      "13%": "32%",
+      "Policies on workhour\nmanagement, setup of\nLabor Council": "Green procurement\npolicies and energy-\nsaving activities"
+    },
+    "value": 32.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Safety/\nEnvironment 32% Green procurement\npolicies and energy-\nsaving activities"
+  },
+  {
+    "page": 77,
+    "table_headers": [
+      "Labor Rights",
+      "13%",
+      "Policies on workhour\nmanagement, setup of\nLabor Council"
+    ],
+    "raw_cells": {
+      "Labor Rights": "Business\nEthics",
+      "13%": "16%",
+      "Policies on workhour\nmanagement, setup of\nLabor Council": "Business ethics\n(fair trade) guidelines,\nidentity protection policy"
+    },
+    "value": 16.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Business\nEthics 16% Business ethics\n(fair trade) guidelines,\nidentity protection policy"
+  },
+  {
+    "page": 77,
+    "table_headers": [
+      "Labor Rights",
+      "13%",
+      "Policies on workhour\nmanagement, setup of\nLabor Council"
+    ],
+    "raw_cells": {
+      "Labor Rights": "Management\nSystem",
+      "13%": "20%",
+      "Policies on workhour\nmanagement, setup of\nLabor Council": "Management declares\ncompliance willingness"
+    },
+    "value": 20.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Management\nSystem 20% Management declares\ncompliance willingness"
+  },
+  {
+    "page": 102,
+    "table_headers": [
+      "Executive Directors\n(including CEO)",
+      "",
+      "Salary",
+      "Remuneration is determined based on the position, nature\nof delegated tasks, and performance of delegated tasks\naccording to the Executive Compensation Regulation\n(BOD resolution)"
+    ],
+    "raw_cells": {
+      "Executive Directors\n(including CEO)": "",
+      "": "",
+      "Salary": "Lunar New\nYear/Chusok\nBonus",
+      "Remuneration is determined based on the position, nature\nof delegated tasks, and performance of delegated tasks\naccording to the Executive Compensation Regulation\n(BOD resolution)": "100% of monthly salary of each director"
+    },
+    "value": 100.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Lunar New\nYear/Chusok\nBonus 100% of monthly salary of each director"
+  },
+  {
+    "page": 102,
+    "table_headers": [
+      "Executive Directors\n(including CEO)",
+      "",
+      "Salary",
+      "Remuneration is determined based on the position, nature\nof delegated tasks, and performance of delegated tasks\naccording to the Executive Compensation Regulation\n(BOD resolution)"
+    ],
+    "raw_cells": {
+      "Executive Directors\n(including CEO)": "",
+      "": "",
+      "Salary": "Target\nincentive",
+      "Remuneration is determined based on the position, nature\nof delegated tasks, and performance of delegated tasks\naccording to the Executive Compensation Regulation\n(BOD resolution)": "Determined by CEO based on the achievement of\ndepartmental targets within the range of 0~200% of\nmonthly salary and paid in 2 installments during a year\n(adjusted according to each organization’s performance)"
+    },
+    "value": 200.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Target\nincentive Determined by CEO based on the achievement of\ndepartmental targets within the range of 0~200% of\nmonthly salary and paid in 2 installments during a year\n(adjusted according to each organization’s performance)"
+  },
+  {
+    "page": 102,
+    "table_headers": [
+      "Executive Directors\n(including CEO)",
+      "",
+      "Salary",
+      "Remuneration is determined based on the position, nature\nof delegated tasks, and performance of delegated tasks\naccording to the Executive Compensation Regulation\n(BOD resolution)"
+    ],
+    "raw_cells": {
+      "Executive Directors\n(including CEO)": "",
+      "": "",
+      "Salary": "Performance\nincentive",
+      "Remuneration is determined based on the position, nature\nof delegated tasks, and performance of delegated tasks\naccording to the Executive Compensation Regulation\n(BOD resolution)": "When the company’s profit target is exceeded, 30% of the\nprofit is used as a resource by CEO decision and paid once\na year within 0~50% of base salary according to individual\nperformance"
+    },
+    "value": 30.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Performance\nincentive When the company’s profit target is exceeded, 30% of the\nprofit is used as a resource by CEO decision and paid once\na year within 0~50% of base salary according to individual\nperformance"
+  },
+  {
+    "page": 116,
+    "table_headers": [
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)",
+      "12,833",
+      "159",
+      "155",
+      "97.5%"
+    ],
+    "raw_cells": {
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)": "Automated inspection of overseas operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)",
+      "12,833": "13,291",
+      "159": "335",
+      "155": "316",
+      "97.5%": "94.3%"
+    },
+    "value": 1329133531694.3,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Automated inspection of overseas operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.) 13,291 335 316 94.3%"
+  },
+  {
+    "page": 116,
+    "table_headers": [
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)",
+      "12,833",
+      "159",
+      "155",
+      "97.5%"
+    ],
+    "raw_cells": {
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)": "Internal system inspection",
+      "12,833": "587",
+      "159": "80",
+      "155": "78",
+      "97.5%": "97.5%"
+    },
+    "value": 587807897.5,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Internal system inspection 587 80 78 97.5%"
+  },
+  {
+    "page": 116,
+    "table_headers": [
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)",
+      "12,833",
+      "159",
+      "155",
+      "97.5%"
+    ],
+    "raw_cells": {
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)": "Automated inspection of DMZ system vulnerabilities",
+      "12,833": "839",
+      "159": "23",
+      "155": "23",
+      "97.5%": "100.0%"
+    },
+    "value": 8392323100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Automated inspection of DMZ system vulnerabilities 839 23 23 100.0%"
+  },
+  {
+    "page": 116,
+    "table_headers": [
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)",
+      "12,833",
+      "159",
+      "155",
+      "97.5%"
+    ],
+    "raw_cells": {
+      "Automated inspection of domestic operations\nvulnerabilities (PC, multi-function printers, network\nequipment, etc.)": "Inspection of cloud remote access port",
+      "12,833": "428",
+      "159": "6",
+      "155": "6",
+      "97.5%": "100.0%"
+    },
+    "value": 42866100.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Inspection of cloud remote access port 428 6 6 100.0%"
+  },
+  {
+    "page": 124,
+    "table_headers": [
+      "Number of\ndirectors",
+      "Total",
+      "Persons",
+      "7",
+      "7",
+      "7"
+    ],
+    "raw_cells": {
+      "Number of\ndirectors": "",
+      "Total": "Male (ratio)",
+      "Persons": "Persons (%)",
+      "7": "6(86%)"
+    },
+    "value": 86.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Male (ratio) Persons (%) 6(86%)"
+  },
+  {
+    "page": 124,
+    "table_headers": [
+      "Number of\ndirectors",
+      "Total",
+      "Persons",
+      "7",
+      "7",
+      "7"
+    ],
+    "raw_cells": {
+      "Number of\ndirectors": "",
+      "Total": "Female (ratio)",
+      "Persons": "Persons (%)",
+      "7": "1(14%)"
+    },
+    "value": 14.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Female (ratio) Persons (%) 1(14%)"
+  },
+  {
+    "page": 128,
+    "table_headers": [
+      "Ratio of female employees",
+      "%",
+      "29.2",
+      "30.6",
+      "30.6"
+    ],
+    "raw_cells": {
+      "Ratio of female employees": "Ratio of female junior managers1)",
+      "%": "%",
+      "29.2": "40.1",
+      "30.6": "39.4"
+    },
+    "value": 1.0,
+    "unit": "%",
+    "scope": "Scope 1",
+    "raw_text_span": "Ratio of female junior managers1) % 40.1 39.4"
+  },
+  {
+    "page": 129,
+    "table_headers": [
+      "Average\nremuneration\n(HQ)",
+      "Executive",
+      "Total",
+      "KRW million",
+      "409",
+      "402",
+      "419"
+    ],
+    "raw_cells": {
+      "Average\nremuneration\n(HQ)": "Gender wage gap1)",
+      "Executive": "",
+      "Total": "",
+      "KRW million": "%",
+      "409": "100",
+      "402": "100",
+      "419": "100"
+    },
+    "value": 1.0,
+    "unit": "%",
+    "scope": null,
+    "raw_text_span": "Gender wage gap1) % 100 100 100"
+  },
+  {
+    "page": 132,
+    "table_headers": [
+      "Total energy consumption",
+      "MWh",
+      "217,252",
+      "249,998",
+      "322,671",
+      "281,270"
+    ],
+    "raw_cells": {
+      "Total energy consumption": "Non-renewable energy consumption1)",
+      "MWh": "MWh",
+      "217,252": "217,007",
+      "249,998": "249,692",
+      "322,671": "321,456",
+      "281,270": "280,903"
+    },
+    "value": 1.0,
+    "unit": "MWh",
+    "scope": null,
+    "raw_text_span": "Non-renewable energy consumption1) MWh 217,007 249,692 321,456 280,903"
+  }
+]
