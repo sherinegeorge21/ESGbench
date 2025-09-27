@@ -1,69 +1,72 @@
-# ESGBench — Explainable ESG QA Benchmark
+# 🌍 ESGBench — Explainable ESG QA Benchmark
 
 ESGBench is a small, reproducible pipeline to:
 
-collect ESG/TCFD PDFs,
+📄 Collect ESG/TCFD PDFs
 
-build a searchable index + table cache,
+📚 Build a searchable index + table cache
 
-auto-generate grounded ESG QA pairs with evidence,
+🤖 Auto-generate grounded ESG QA pairs with evidence
 
-(optional) run a RAG baseline,
+🔎 (Optional) Run a RAG baseline
 
-evaluate predictions (EM/F1/Numeric/Recall@K).
+📊 Evaluate predictions (EM/F1/Numeric/Recall@K)
 
-Python: 3.10–3.12 recommended
+Supports Python 3.10–3.12.
 
-0) Install
+## 🚀 Installation
 git clone https://github.com/<you>/esgbench
 cd esgbench
 
-# choose one:
+### Choose one:
 pip install -e .          # if using pyproject.toml
-# or
+# OR
 pip install -r requirements.txt
 
 
-Create .env from the template and add your key (a real sk-… secret):
+Create .env from the template and add your OpenAI key:
 
 cp .env.example .env
-# edit .env -> OPENAI_API_KEY=sk-xxxxxxxx
+### edit .env -> OPENAI_API_KEY=sk-xxxxxxxx
 
-1) Seed documents
+## 1️⃣ Seed Documents
 
 Edit data/docs_seed.csv (UTF-8, header required):
 
-company	year	url	doc_type	country	industry	source
-Apple Inc	2024	https://…/apple-2024-esg.pdf	ESG	US	Technology	manual
+company,year,url,doc_type,country,industry,source
+Apple Inc,2024,https://…/apple-2024-esg.pdf,ESG,US,Technology,manual
+
 
 Then ingest (downloads PDFs to pdfs/ and logs to data/esgbench_document_information.jsonl):
 
 python -m scripts.ingest_catalog data/docs_seed.csv
 
 
-If a URL 403s, it’ll be marked in the catalog and skipped.
+⚠️ If a URL 403s, it’ll be marked in the catalog and skipped.
 
-2) Build index (chunks + tables)
+## 2️⃣ Build Index (Chunks + Tables)
 python -m scripts.build_index
 
 
-Outputs:
+### Outputs:
 
 cache/chunks.json — text chunks with {doc_name, page, text}
 
 cache/<DOC>_tables.json — parsed table rows (if found)
 
-Tip (macOS): camelot needs Ghostscript; tabula needs Java. If table parsing fails, chunks still work.
+💡 On macOS: camelot needs Ghostscript; tabula needs Java. If table parsing fails, chunks still work.
 
-3) Generate QA pairs
+## 3️⃣ Generate QA Pairs
 python -m scripts.generate_qas_from_chunks
 
 
-Appends QAs to data/esgbench_open_source.jsonl
+Appends QAs to data/esgbench_open_source.jsonl.
 
-Each QA has: company, doc_name, category, kpi_name, question, answer, and evidence with page number.
+Each QA has:
 
-Sample (see data/esgbench_open_source.sample.jsonl):
+company, doc_name, category, kpi_name, question, answer, evidence (with page number).
+
+### Sample:
 
 {
   "company": "Apple Inc",
@@ -79,53 +82,56 @@ Sample (see data/esgbench_open_source.sample.jsonl):
   }]
 }
 
+## Notes
 
-Notes
+✅ The generator de-dupes by (doc_name | question | answer).
 
-The generator de-dupes by (doc_name | question | answer).
+🚫 Guardrails block “meta” questions (e.g., “what is item 2 in the passage”).
 
-Guardrails block “meta” questions (e.g., “what is item 2 in the passage”).
+🔄 You can re-run safely; only new QAs are appended.
 
-You can re-run safely; only new QAs are appended.
-
-(Optional) numeric-only QA generator:
+Optional numeric-only QA generator:
 
 python -m scripts.generate_numeric_qas
 
-4) (Optional) RAG baseline → predictions
+4️⃣ (Optional) RAG Baseline → Predictions
 
 This retrieves top-K chunks (OpenAI embeddings) and asks a model for the answer.
 
-# knobs (or set in .env)
+Set knobs (or put in .env):
+
 export RETRIEVE_K=5
 export LLM_MODEL=gpt-5-mini
 export EMB_MODEL=text-embedding-3-large
 
+
+## Run:
+
 python -m scripts.rag_predict
 
 
-Outputs: data/esgbench_preds.jsonl
+Outputs data/esgbench_preds.jsonl:
 
 {"doc_name":"APPLE_INC_2024_ESG","question":"…","pred":"1,234,567 tCO2e","retrieved_pages":[39,40,38]}
 
-5) Evaluate predictions
+5️⃣ Evaluate Predictions
 python -m scripts.evaluate_esgbench data/esgbench_open_source.jsonl data/esgbench_preds.jsonl
 # add -v for per-item logs
 
 
-Printed metrics:
+## Metrics:
 
-Exact Match (EM)
+✅ Exact Match (EM)
 
-String F1
+✍️ String F1
 
-Numeric accuracy @±2% (unit aware)
+🔢 Numeric accuracy @±2% (unit-aware)
 
-Retrieval Recall@K (if retrieved_pages present)
+🔎 Retrieval Recall@K (if retrieved_pages present)
 
-Per-category accuracy
+📊 Per-category accuracy
 
-Folder layout
+📂 Folder Layout
 esgbench/
   data/                      # small seed + (generated) gold/preds
   pdfs/                      # downloaded PDFs (not committed)
@@ -136,7 +142,7 @@ esgbench/
 
 .gitignore excludes large artifacts (pdfs/, cache/, full gold/preds).
 
-Environment variables (via .env or shell)
+## ⚙️ Environment Variables
 
 OPENAI_API_KEY (required for LLM/embeddings)
 
@@ -148,23 +154,23 @@ RETRIEVE_K (default 5)
 
 PASSAGE_CHARS (context snippet length; default 900)
 
-Repro tips / Troubleshooting
+🛠 Repro Tips / Troubleshooting
 
-Nothing added to gold file: ensure cache/chunks.json exists; model key valid; watch console logs (script prints per-doc status).
+❌ Nothing added to gold file → ensure cache/chunks.json exists; API key valid; check console logs.
 
-HTTP 403 on some PDFs: leave them in seed; they’re logged as failed; proceed with others.
+⚠️ HTTP 403 on PDFs → leave them in seed; they’re logged as failed.
 
-Table parsing errors: still usable; QA generation also works from text passages.
+📑 Table parsing errors → still usable; QA generation also works from text.
 
-macOS table tools: brew install ghostscript (Camelot), Java for Tabula.
+🍎 macOS → brew install ghostscript for Camelot; install Java for Tabula.
 
-License & citation
+## 📜 License & Citation
 
 License: see LICENSE (MIT or Apache-2.0 recommended).
 
-If you publish results using ESGBench, please cite the repo (add CITATION.cff later).
+If you publish results using ESGBench, please cite this repo (add CITATION.cff later).
 
-One-liner sanity check (end-to-end, tiny run)
+✅ One-Liner Sanity Check
 # after ingest + index
 head -n 5 data/docs_seed.csv
 python -m scripts.generate_qas_from_chunks
