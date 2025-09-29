@@ -29,10 +29,12 @@ pip install -r requirements.txt
 
 Create .env from the template and add your OpenAI key:
 
-cp .env.example .env
 ```bash
+cp .env.example .env
 edit .env -> OPENAI_API_KEY=sk-xxxxxxxx
 ```
+
+🔧 **Configuration System**: ESGBench now uses centralized configuration with environment variable validation. All settings can be customized via `.env` file or environment variables. See `.env.example` for available options.
 
 ## 1️⃣ Seed Documents
 
@@ -161,19 +163,26 @@ esgbench/
 
 .gitignore excludes large artifacts (pdfs/, cache/, full gold/preds).
 
-## ⚙️ Environment Variables
+## ⚙️ Configuration
 
-```bash
-OPENAI_API_KEY (required for LLM/embeddings)
+ESGBench uses a centralized configuration system with pydantic validation. Configuration is loaded from environment variables and `.env` files.
 
-LLM_MODEL (default gpt-5-mini)
+**Required:**
+- `OPENAI_API_KEY` - Your OpenAI API key
 
-EMB_MODEL (default text-embedding-3-large)
+**Optional LLM Settings:**
+- `LLM_MODEL` (default: gpt-4o-mini) - Model for QA generation and RAG
+- `EMB_MODEL` (default: text-embedding-3-large) - Embedding model
+- `API_TIMEOUT` (default: 40) - API request timeout in seconds
+- `MAX_RETRIES` (default: 4) - Maximum API retry attempts
 
-RETRIEVE_K (default 5)
+**Processing Settings:**
+- `MAX_QAS_PER_DOC` (default: 16) - Maximum QA pairs per document
+- `PASSAGE_CHARS` (default: 900) - Context snippet length
+- `RETRIEVE_K` (default: 5) - Number of chunks to retrieve for RAG
+- `INCLUDE_TABLES` (default: 1) - Whether to include table parsing
 
-PASSAGE_CHARS (context snippet length; default 900)
-```
+See `.env.example` for all available configuration options.
 
 🛠 Repro Tips / Troubleshooting
 
